@@ -24,7 +24,7 @@
 
 ### **My Stack ~**
 
-<img align="right" src="https://i.gifer.com/PhYk.gif" alt="mr robot" width="200px" style="border-radius: 10px; margin: 10px;" />
+<img align="right" src="https://i.gifer.com/PhYk.gif" alt="mr robot" width="200px" style="border-radius: 20px; margin: 20px;" />
 <br/>
 <br/>
 <br/>
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Docker-20.10-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
-### **Edsger W. Dijkstra**
+### **Tech**
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
 </div>
