@@ -24,7 +24,7 @@
     alt="Elliot Alderson" 
     width="300px" 
     style="border-radius: 10px; margin-left: 10px;" 
-    src="https://github.com/FelpsCodee/assets/blob/main/elliot.gif?raw=true" 
+    src="https://github.com/FelpsCodee/assets/blob/main/elliot.gif?raw=true](https://raw.githubusercontent.com/FelpsCodee/assets/main/elliot.gif" 
 />
 <br/>
 <br/>
