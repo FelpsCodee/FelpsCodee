@@ -2,7 +2,6 @@
 
 <p align="left">
     <b>Estudante de Programação/CyberSecurity</b><br>
-    Olá, meu nome é Felipe, tenho 18 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e vou começar a publicar meus conhecimentos.
     
                                     ⣎⢧⢣⢣⠪⡸⡸⡸⢸⢸⢸⢨⠪⡊⡎⣊⢢⠱⡘⡌⢆⢣⠢⢂⠂⡂⡂⡂⡢⡑⡜⡔⡑⡌⢀⠀⠀⠀⢀⠀⡀⢀⠐⠀⠄⡂⠄⡐⣐⣠⣮
                                     ⠈⡚⠜⡜⢌⢢⠱⡱⡑⡕⡑⡕⢕⢕⢑⢔⢑⠜⡌⡊⡊⡢⡑⡐⡐⡐⢌⠢⡘⡨⠪⡢⡑⢕⠀⠀⡁⠠⠀⠀⠀⠠⠀⢂⣠⢵⣞⣿⣽⢿⣽
