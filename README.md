@@ -1,8 +1,20 @@
 # 👾 FelpsCodee
 
-**`Estudante de Programação/CyberSecurity`**
+<p align="left">
+    <b>Estudante de Programação/CyberSecurity</b><br>
+    Olá, meu nome é Felipe, tenho 18 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e vou começar a publicar meus conhecimentos.
+</p>
 
-Olá meu nome é Felipe, tenho 18 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e vou começar a publicar meus conhecimentos.
+<img
+    align="right"
+    alt="1 or 0" 
+    width="300px" 
+    style="border-radius: 10px; margin-left: 10px;" 
+    src="https://media1.tenor.com/m/8plg_QTWlEMAAAAd/rami-malek-mr-robot.gif" 
+/>
+<br/>
+<br/>
+<br/>
 
 <p align="left">
     <a href="https://github.com/FelpsCodee?tab=repositories&sort=stargazers">
