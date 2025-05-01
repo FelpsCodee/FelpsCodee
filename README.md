@@ -22,7 +22,7 @@
 
 ---
 
-### **My Stack ~**
+### My Stack ~
 
 <img align="right" src="https://i.gifer.com/PhYk.gif" alt="mr robot" width="200px" style="border-radius: 20px; margin: 20px;" />
 <br/>
