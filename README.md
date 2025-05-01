@@ -6,7 +6,6 @@
 </p>
 
 <img
-    align="right"
     alt="1 or 0" 
     width="300px" 
     style="border-radius: 10px; margin-left: 10px;" 
