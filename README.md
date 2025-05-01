@@ -5,11 +5,12 @@
     Olá, meu nome é Felipe, tenho 18 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e vou começar a publicar meus conhecimentos.
 </p>
 
-<img
-    alt="1 or 0" 
+<img 
+    align="right" 
+    alt="Elliot Alderson" 
     width="300px" 
     style="border-radius: 10px; margin-left: 10px;" 
-    src="https://media1.tenor.com/m/8plg_QTWlEMAAAAd/rami-malek-mr-robot.gif](https://github.com/FelpsCodee/assets/blob/main/eliot.gif" 
+    src="https://github.com/FelpsCodee/assets/blob/main/elliot.gif?raw=true" 
 />
 <br/>
 <br/>
