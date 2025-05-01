@@ -1,151 +1,71 @@
-# 👾 FelpsCodee
-
-<p align="left">
-    <b>Estudante de Programação/CyberSecurity</b><br>
-    
-                                    ⣎⢧⢣⢣⠪⡸⡸⡸⢸⢸⢸⢨⠪⡊⡎⣊⢢⠱⡘⡌⢆⢣⠢⢂⠂⡂⡂⡂⡢⡑⡜⡔⡑⡌⢀⠀⠀⠀⢀⠀⡀⢀⠐⠀⠄⡂⠄⡐⣐⣠⣮
-                                    ⠈⡚⠜⡜⢌⢢⠱⡱⡑⡕⡑⡕⢕⢕⢑⢔⢑⠜⡌⡊⡊⡢⡑⡐⡐⡐⢌⠢⡘⡨⠪⡢⡑⢕⠀⠀⡁⠠⠀⠀⠀⠠⠀⢂⣠⢵⣞⣿⣽⢿⣽
-                                    ⠀⡐⡀⢂⠁⠌⢎⢎⢞⢜⢸⢸⢸⢸⢘⢌⠆⡃⢎⢜⠌⡆⡪⢐⣐⣔⣔⢌⡒⠜⢌⠢⡣⡑⢀⠀⠠⠀⢀⠀⠅⠂⠈⢈⢟⣯⡿⣞⣯⣿⢿
-                                    ⠐⡀⢂⢐⢈⠐⡈⠜⠌⢜⠰⡡⢣⢑⠱⠡⡊⡘⢌⢂⢣⢵⣾⣟⣿⣿⣽⣿⡿⣷⣵⡡⡢⡑⠀⠐⠐⠀⡄⠐⠀⠂⢄⠃⡂⠈⢟⣿⣽⣾⣿
-                                    ⢒⠦⡱⡔⡐⢀⠢⡨⡨⠢⢣⢘⠜⡔⢕⠡⢂⠂⣂⣖⣿⣟⣟⣞⢟⠾⠝⠗⢟⢿⣻⣿⣦⡣⠀⠀⢀⠂⠡⠀⠅⢁⠢⠁⠀⡀⠂⢹⢾⢿⣾
-                                    ⡜⡜⡮⣳⢰⠰⡸⡠⡑⢍⢢⢱⢸⢌⠢⡑⠔⡌⣖⣿⣟⡷⣫⢚⠌⠌⠨⠈⠄⡂⢕⡻⣟⣷⠀⢂⠡⠀⡊⠄⠁⢄⠅⠐⢀⠐⠈⢐⠐⢅⠍
-                                    ⢧⣳⢝⢮⡺⠜⡜⣜⠜⠜⣔⢵⢝⠆⡣⢨⠪⡸⣾⣿⡫⡍⠢⡂⠌⠌⠌⠌⢂⠌⠰⡘⡽⣿⡆⢄⠢⡐⠕⢀⠁⡢⢀⢈⠠⠠⢁⠢⠡⡡⠡
-                                    ⢽⣳⡫⡇⣗⢞⢜⡽⣝⢜⢜⡵⣗⡏⡐⢜⢌⡾⣽⣞⢎⠢⡁⡂⠡⡈⡂⠅⠂⢌⢐⠌⢮⢿⣖⠌⣜⢜⠌⠠⠂⡂⢅⢊⢎⢐⠄⢅⠕⡨⢨
-                                    ⣳⡳⣝⢵⢹⢼⡐⡙⡊⡮⡺⡺⡸⡂⡊⠢⣡⣟⣿⡯⡞⡞⢶⢺⢔⠢⡂⡇⡯⡞⡞⡝⢮⣿⢯⡎⡜⢔⢅⢇⡣⢈⢂⢪⠪⡐⢌⠢⢑⣜⢔
-                                    ⢷⣝⢮⢫⢞⢎⢎⠎⣏⡮⡳⡙⡎⡢⢑⠔⢼⡾⣾⣟⡧⡯⡯⡝⡍⠇⠐⢸⢱⢳⢼⢪⢽⣾⡻⣎⡪⡨⢎⢟⢎⢐⠨⢐⠅⢌⢂⠪⡸⡮⡧
-                                    ⣟⢼⡪⡣⡳⡱⢡⢳⢘⢌⡇⡎⢎⠐⢅⢊⢺⣽⢷⡗⡝⢎⠇⠇⡃⠅⡈⠄⠅⡣⢓⠕⡱⣽⣺⣳⢑⠪⠣⡱⠡⡢⠨⠐⡈⠢⡂⢅⢾⢑⢕
-                                    ⢮⡳⣕⢕⢑⢧⢑⠌⡢⡑⢕⠡⡡⢊⠢⡑⢼⡯⣿⣇⠇⠅⠌⢂⢊⢔⠠⡠⡁⡂⢂⠌⡢⣟⢞⣾⠐⡨⠨⠪⠨⢨⠊⡔⠨⡘⡔⣌⠪⡩⡪
-                                    ⢽⡺⡜⡆⠢⠪⡆⠕⡐⠌⢄⠕⡐⡐⢅⠢⢱⡿⣽⡾⡘⡌⠌⠄⡱⠩⡓⡙⠄⢂⢐⢐⢸⡯⣽⣺⠆⡂⠅⠅⠕⡡⢃⢇⠕⡨⢊⢆⢝⢜⠮
-                                    ⡯⡮⡳⣕⣥⣥⢽⢬⡐⡡⢁⠢⢊⠔⠡⡊⠔⣿⢯⡿⣕⢌⢪⡨⣔⣕⣔⣢⣅⡢⢂⢢⢳⡯⣗⣯⡇⢂⠅⡑⠅⡊⠔⡡⢌⠢⠡⣳⠱⠱⣑
-                                    ⡯⡯⡯⣺⣺⣟⣯⡯⣗⠌⡂⠅⢅⢊⠌⡢⠡⣿⣫⣿⣧⡣⡃⡎⡒⢜⢔⢕⠰⡘⢔⢱⣿⣝⡽⡾⣕⢐⠨⠠⡁⠢⡁⡢⢂⠕⡱⡸⡸⡨⡂
-                                    ⣻⢽⢽⣕⢯⣟⣷⣻⣽⠪⡐⠅⢕⠐⠌⢄⢅⣿⣞⣿⣻⣾⡌⡆⡑⡁⡊⡐⡑⠌⣮⡿⣿⣺⡽⡯⣗⢦⡨⠂⠌⠌⠔⡐⡐⡡⢂⠎⢜⠸⡘
-                                    ⣿⣝⣷⣽⣽⣯⣷⣟⣞⡑⢌⢌⣆⡧⣯⣳⢽⣺⡷⣟⣿⣗⡿⣮⣲⢵⢼⢔⣮⢾⢯⣿⣻⣳⣻⡽⣽⣳⣣⢧⡡⠡⢑⢐⢐⠌⡐⡡⠡⡑⢅
-                                    ⣟⣾⡳⣯⣷⣿⣾⢷⢟⣖⣗⣟⡾⣽⢾⣺⡽⣳⣿⣻⣞⣿⡽⡽⣺⢯⢯⣟⡾⣫⣟⣗⣿⣳⢯⡯⣗⣗⣗⡯⣞⡵⣂⠢⢂⠊⠔⡨⠨⡐⡁
-                                    ⡕⣗⡯⡷⠿⢟⢾⢽⢽⣺⣞⣞⣯⡿⣽⣳⣟⣽⡾⣷⢿⣾⣻⢽⢕⡯⣗⣗⣯⣷⣿⣾⣳⢯⡿⣝⣗⣷⣻⣺⣳⢽⣝⢽⣢⡡⢑⢐⠅⡂⢎
-                                    ⢸⢪⠫⡋⢮⣺⢽⡽⣽⣺⣺⣳⣯⡿⣽⢾⣺⢷⣿⣻⡿⣾⣯⣯⡷⣯⣟⣮⢷⣻⢾⡽⡾⣯⢿⡽⣞⡾⣞⣷⢯⢷⢽⢵⡳⣝⣆⠅⡊⠌⢜
-                                    ⠢⡣⡑⣸⣽⣺⢽⣯⢷⣳⣻⣞⣷⣟⡿⡯⣿⣽⡾⣯⣿⣻⣾⣟⢿⡽⣯⢯⣫⢞⣽⣯⡿⣽⢯⣿⣳⣻⣽⡯⣿⢽⡽⣳⢯⣗⡵⡧⡊⡌⡢
-                                    ⡣⢪⢨⢷⣟⣾⣻⣺⡿⣯⡷⣟⣷⢿⣽⣻⣗⣿⣽⡿⣽⣟⣷⣿⣕⣯⡫⣗⢗⢽⡷⣷⢿⣽⣻⢾⣻⣺⢷⣟⣿⢽⢯⣟⣯⡷⡯⡯⡧⡂⠆
-                                    ⢅⢣⢺⢯⣷⢿⣺⣷⣻⣿⡽⣿⣽⣟⣷⣻⡾⣯⣷⣿⣻⣽⣯⣷⣯⣳⢻⣕⣯⣿⣻⣯⢿⣺⣽⣟⣿⣺⢿⣽⣟⣿⣽⣯⢷⣻⣝⣯⢿⠨⡨
-                                    ⠎⡆⢽⢯⣟⣿⣽⢾⡷⣯⣿⣻⣾⣽⢾⢷⣿⣻⡷⣿⣽⢷⣿⡽⣟⣷⢯⢷⣿⣳⡿⣞⣯⢿⣞⣯⣷⢯⡿⣾⣻⡾⣷⣻⡯⣟⣾⢽⣻⢌⠢
-<img 
-    align="right" 
-    alt="Elliot Alderson" 
-    width="300px" 
-    style="border-radius: 10px; margin-left: 10px;" 
-    src="https://github.com/FelpsCodee/assets/blob/main/elliot.gif?raw=true](https://raw.githubusercontent.com/FelpsCodee/assets/main/elliot.gif" 
-/>
-<br/>
-<br/>
-<br/>
-
-<p align="left">
-    <a href="https://github.com/FelpsCodee?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/FelpsCodee?color=00FF00&style=for-the-badge&labelColor=000000&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/FelpsCodee?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/FelpsCodee?color=00FF00&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center">
+  <h1>👾 FelpsCodee</h1>
+  <p>
+    Estudante de Análise e Desenvolvimento de Sistemas e CyberSecurity. Atualmente, estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  </p>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<p align="left">
-<img 
-        align="left" 
-        alt="HTML"
-        title="HTML" 
-        width="40px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="JavaScript" 
-        title="JavaScript"
-        width="40px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Git" 
-        title="Git"
-        width="40px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Python" 
-        title="Python"
-        width="40px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Linux" 
-        title="Linux"
-        width="40px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-    />
-  <img 
-    align="left" 
-    alt="Kali Linux" 
-    title="Kali Linux" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.kali.org/images/kali-dragon-icon.svg" 
-/>
-    <img 
-        align="left" 
-        alt="Debian" 
-        title="Debian"
-        width="40px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" 
-    />
-    <img 
-    alt="Terminal" 
-    title="Terminal Hacker" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
-    />
-</p>
-
-<br/>
-<br/>
-<br/>
+### **Minhas Redes**
+<div align="center">
+  <a href="https://www.youtube.com/channel/SEU_CANAL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.kali.org/downloads/" target="_blank">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white" alt="Kali Linux">
+  </a>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
 
 ---
 
-### 📊 Estatísticas
+### **My Stack ~**
 
-<p align="center">
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FelpsCodee&show_icons=true&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="center" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelpsCodee&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-<p align="center"> <a href="https://github.com/FelpsCodee"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></p>
+<img align="right" src="https://i.gifer.com/PhYk.gif" alt="mr robot" width="200px" style="border-radius: 10px; margin: 10px;" />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+</div>
+
+---
+
+### **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelpsCodee&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=00FF00&text_color=00FF00&border_radius=3&border_color=00FF00&icon_color=00FF00&theme=dark" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelpsCodee&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00FF00&hide=html,scss,less&bg_color=000000&text_color=00FF00&border_radius=3&border_color=00FF00&count_private=true" alt="Most Used Languages">
+</div>
+
+---
+
+### **Contribuições Recentes**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelpsCodee&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Docker-20.10-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</div>
+
+### **Edsger W. Dijkstra**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
+</div>
