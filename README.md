@@ -38,7 +38,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" />
     </td>
     <td>
-      <img src=https://github.com/FelpsCodee/assets/blob/main/print%20hello%20world.gif" width="160px" alt="Mr. Robot" />
     </td>
   </tr>
 </table>
