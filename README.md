@@ -24,7 +24,7 @@
 
 ### My Stack ~
 
-<img align="right" src="https://i.gifer.com/PhYk.gif" alt="mr robot" width="200px" style="border-radius: 20px; margin: 20px;" />
+<img align="right" src="https://i.gifer.com/PhYk.gif](https://i.pinimg.com/originals/6b/f0/a5/6bf0a5d234d2f9b24dea9309636bf737.gif" alt="mr robot" width="200px" style="border-radius: 20px; margin: 20px;" />
 <br/>
 <br/>
 <br/>
