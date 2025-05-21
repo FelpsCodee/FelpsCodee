@@ -38,7 +38,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" />
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/6b/f0/a5/6bf0a5d234d2f9b24dea9309636bf737.gif" width="160px" alt="Mr. Robot" />
+      <img src=https://github.com/FelpsCodee/assets/blob/main/print%20hello%20world.gif" width="160px" alt="Mr. Robot" />
     </td>
   </tr>
 </table>
