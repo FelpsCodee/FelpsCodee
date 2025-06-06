@@ -18,10 +18,10 @@
 👨‍💻 Olá! Eu sou o **FelpsCodee**.  
 Sou movido por terminal, lógica e sistemas operacionais.  
 Sou apaixonado por:
-- Linux
-- C / C++
-- Kernel e baixo nível
-- Simplicidade eficiente
+- Linux 🐧
+- C / C++ 🐧
+- Kernel e baixo nível 🐧
+- Simplicidade eficiente 🐧
 
 > **C é poesia. Kernel é lar.**
 
@@ -69,8 +69,6 @@ Sou apaixonado por:
 
 ## 🔗 Contato
 
-📫 **Email**: seu@email.com  
-🔗 **LinkedIn**: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
 🐱 **GitHub**: [FelpsCodee](https://github.com/FelpsCodee)
 
 ---
