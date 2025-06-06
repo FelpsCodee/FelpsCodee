@@ -35,7 +35,7 @@ Sou apaixonado por:
 
 ## 🛠️ Minhas Ferramentas
 
-🐧 Linux • ⚙️ C • 💻 C++ • 🐍 Python • 🐋 Docker • 🖥️ Bash • 🧠 Assembly
+🐧 Linux • ⚙️ C • 💻 C++ • 🐍 Python • 🐋 MySQL • 🖥️ Bash • 🧠 JAVA
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
