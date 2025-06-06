@@ -28,7 +28,7 @@ Sou apaixonado por:
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c5/c7/4f/c5c74f4fe3be1a60e6b8828d39506636.jpg" width="300" alt="Hacker Tux"/>
+  <img src="https://media.tenor.com/W6he00oLuCEAAAAi/club-penguin-club-penguin-sweep.gif" width="300" alt="Hacker Tux"/>
 </p>
 
 ---
