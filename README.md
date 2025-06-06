@@ -1,74 +1,67 @@
-Sim, você está absolutamente correto! A forma como o GitHub e outros renderizadores de Markdown funcionam é que se houver um < ou > literal sem ser parte de uma tag HTML válida, ou se forem usadas as entidades HTML como &lt; e &gt;, eles são mostrados como texto puro. O problema que você está vendo é que o GitHub interpreta tags HTML diretamente se elas estiverem formatadas corretamente.
+<h1 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="60"/>
+  FelpsCodee
+</h1>
 
-Eu peço desculpas. A confusão pode ter vindo da minha própria formatação ou da forma como o texto é copiado/colado. O ideal é que o código tenha os < e > reais para as tags HTML.
-
-Vamos tentar de novo, com o código que deve funcionar diretamente no seu arquivo README.md no GitHub. Copie exatamente o texto abaixo, sem nenhuma alteração manual.
-
-Markdown
-
-# 🐧 FelpsCodee | Domínio Linux, Poder do Código Raiz 💻
-
-<h3 align="center">"Software é arte, Linux é a tela."</h3>
+<h3 align="center" style="color: white;">"Controle é Liberdade."</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.svg/250px-Tux.svg.png" alt="Tux" width="120"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cpp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-Salve! Sou o **FelpsCodee**, um entusiasta do universo **Linux** e obcecado por **performance** e **controle** no desenvolvimento. Minha jornada é focada em desvendar as entranhas do sistema operacional e criar soluções robustas com minhas linguagens de eleição.
+## 🐧 Sobre
+
+Sou o **FelpsCodee**, apaixonado por **Linux**, **baixo nível**, e o poder real da computação.  
+Exploro o mundo dos bits, sistemas operacionais e códigos enxutos.  
+**C é poesia. Kernel é lar.**
 
 ---
 
-## 🛠️ Ferramentas de Linha de Comando e Desenvolvimento:
+## 🧰 Ferramentas & Tecnologias
 
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" title="Vim"/>
 </p>
 
 ---
 
-## 📊 Estatísticas de Código
+## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelpsCodee&show_icons=true&theme=dark" alt="Estatísticas do GitHub de FelpsCodee" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelpsCodee&layout=compact&theme=dark" alt="Linguagens Mais Usadas de FelpsCodee" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FelpsCodee&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelpsCodee&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📜 Explorando o Terminal e a Alma do Sistema
+## 🚀 Projetos em destaque
 
-Minha paixão se estende à arte de dominar o terminal e criar scripts poderosos para automatizar tarefas e explorar as capacidades do Linux:
-
-* **Shell Scripting (Bash, Zsh):** Automação de tarefas, administração de sistemas, criação de ferramentas personalizadas.
-* **Python Scripting:** Desenvolvimento de utilitários, análise de dados, interação com o sistema operacional.
-* **Perl Scripting:** Manipulação de texto, processamento de logs, tarefas de sistema (aprendendo e explorando!).
+- [🔧 Kernel Toys](https://github.com/FelpsCodee/kernel-toys): ferramentas para explorar o funcionamento interno do Linux
+- [🐚 Bash Kit](https://github.com/FelpsCodee/bash-kit): scripts rápidos e poderosos pra quem vive no terminal
 
 ---
 
-## 🐧 Tux no Comando
+## 🔗 Conecte-se
 
+- 💻 GitHub: [FelpsCodee](https://github.com/FelpsCodee)
+- 📧 E-mail: seu@emailaqui.com
+- 🌐 LinkedIn: [SeuPerfil](https://www.linkedin.com/in/seuperfil)
+
+---
+
+<h4 align="center">🔥 Que o Kernel esteja com você 🔥</h4>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tux_poster.svg" alt="Tux Comando" width="200"/>
+  <img src="https://i.pinimg.com/originals/40/e1/6f/40e16f14fdc7bc10ed72f3ddfc8c87bd.gif" width="150"/>
 </p>
-
----
-
-## 🔗 Conecte-se na Rede:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelpsCodee)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
-
----
-
-### ⚫ A força do código livre e do terminal! ⚫
