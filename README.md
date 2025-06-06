@@ -1,69 +1,34 @@
-<div align="center">
-  <h1>👾 FelpsCodee</h1>
-  <p>
-    Estudante de Análise e Desenvolvimento de Sistemas e CyberSecurity. Atualmente, estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  </p>
-</div>
+🐧 FelpsCodee | Apaixonado por Linux e Código de Baixo Nível
+&lt;h3 align="center">"Controle é Liberdade."&lt;/h3>
 
----
+&lt;p align="center">
+&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Icon" width="60"/>
+&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Icon" width="60"/>
+&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Icon" width="60"/>
+&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="60"/>
+&lt;/p>
 
-### **Minhas Redes**
-<div align="center">
-  <a href="https://www.youtube.com/channel/SEU_CANAL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.kali.org/downloads/" target="_blank">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white" alt="Kali Linux">
-  </a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
+Sou o FelpsCodee, um desenvolvedor com foco em Linux, C, C++ e Python. Minha paixão é criar software eficiente, explorar o kernel e trabalhar com a base da computação.
 
----
+💻 Minhas Ferramentas:
+&lt;p align="left">
+&lt;a href="https://www.linux.org/" target="_blank" rel="noreferrer"> &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/> &lt;/a>
+&lt;a href="https://www.python.org" target="_blank" rel="noreferrer"> &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> &lt;/a>
+&lt;a href="https://www.gnu.org/software/c/" target="_blank" rel="noreferrer"> &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/> &lt;/a>
+&lt;a href="https://isocpp.org/" target="_blank" rel="noreferrer"> &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/> &lt;/a>
+&lt;a href="https://www.docker.com/" target="_blank" rel="noreferrer"> &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/> &lt;/a>
+&lt;/p>
 
-### My Stack ~
+📊 Estatísticas:
+&lt;p align="center">
+&lt;img src="https://github-readme-stats.vercel.app/api?username=FelpsCodee&amp;show_icons=true&amp;theme=dark" alt="FelpsCodee's GitHub stats" style="max-width: 100%;"/>
+&lt;br/>
+&lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelpsCodee&amp;layout=compact&amp;theme=dark" alt="Top Languages" style="max-width: 100%;"/>
+&lt;/p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" />
-    </td>
-    <td>
-    </td>
-  </tr>
-</table>
+🔗 Conecte-se:
+&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+&lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+&lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail">
 
----
-
-### **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelpsCodee&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=00FF00&text_color=00FF00&border_radius=3&border_color=00FF00&icon_color=00FF00&theme=dark" alt="GitHub stats">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelpsCodee&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00FF00&hide=html,scss,less&bg_color=000000&text_color=00FF00&border_radius=3&border_color=00FF00&count_private=true" alt="Most Used Languages">
-</div>
-
----
-
-### **Contribuições Recentes**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelpsCodee&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Docker-20.10-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</div>
-
-### **Tech**
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
-</div>
+🔥 Que o Kernel esteja com você! 🐧
