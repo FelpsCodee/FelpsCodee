@@ -16,14 +16,13 @@
 ## 🐧 Sobre mim
 
 👨‍💻 Olá! Eu sou o **FelpsCodee**.  
-Sou movido por terminal, lógica e sistemas operacionais.  
-Sou apaixonado por:
+Sou um Estudante de Análsie e Desenvolvimento de Sistemas e Cybersegurança e futuramente pretendo ser um dev FullStack
 - Linux 🐧
-- C / C++ 🐧
-- Kernel e baixo nível 🐧
+- Linguagens BackEnd 🐧
+- cybersecurity 🐧
 - Simplicidade eficiente 🐧
 
-> **C é poesia. Kernel é lar.**
+> Sempre em Busca de aprendizado!
 
 ---
 
@@ -33,7 +32,7 @@ Sou apaixonado por:
 
 ---
 
-## 🛠️ Minhas Ferramentas
+## 🛠️ Ferramentas que uso e pretendo usar
 
 🐧 Linux • ⚙️ C • 💻 C++ • 🐍 Python • 🐋 MySQL • 🖥️ Bash • 🧠 JAVA
 
@@ -57,16 +56,6 @@ Sou apaixonado por:
 
 ---
 
-## 🚀 Projetos em Destaque
-
-🐧 [**Kernel Toys**](https://github.com/FelpsCodee/kernel-toys)  
-> Ferramentas para fuçar o coração do Linux.  
-  
-🐧 [**Bash Kit**](https://github.com/FelpsCodee/bash-kit)  
-> Scripts rápidos, eficientes e prontos pra terminal.
-
----
-
 ## 🔗 Contato
 
 🐱 **GitHub**: [FelpsCodee](https://github.com/FelpsCodee)
@@ -79,4 +68,4 @@ Sou apaixonado por:
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="80"/>
   <img src="https://i.pinimg.com/originals/40/e1/6f/40e16f14fdc7bc10ed72f3ddfc8c87bd.gif" width="100"/>
 </p>
-<h3 align="center"><strong>Que o Kernel esteja com você.</strong></h3>
+<h3 align="center"><strong>Que o Linux esteja com você.</strong></h3>
