@@ -2,7 +2,6 @@
   🐧 FelpsCodee
 </h1>
 
-<h3 align="center"><i>"Controle é Liberdade."</i></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
@@ -16,7 +15,7 @@
 ## 🐧 Sobre mim
 
 👨‍💻 Olá! Eu sou o **FelpsCodee**.  
-Sou um Estudante de Análsie e Desenvolvimento de Sistemas e Cybersegurança e futuramente pretendo ser um dev FullStack
+Sou um Estudante de Análise e Desenvolvimento de Sistemas e Cybersegurança e futuramente pretendo ser um dev Backend ou trabalhar na área da cybersegurança
 - Linux 🐧
 - Linguagens BackEnd 🐧
 - cybersecurity 🐧
