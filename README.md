@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**🔓 CVE do dia:** `carregando...`
-> Este bloco é atualizado automaticamente todos os dias por um bot em Python (veja `update_cve.py` + `cve-of-day.yml`), buscando uma vulnerabilidade real na base da NVD
+**CVE do dia:** [CVE-1999-0498](https://nvd.nist.gov/vuln/detail/CVE-1999-0498)
+> TFTP is not running in a restricted directory, allowing a remote attacker to access sensitive information such as password files.
 <!--CVE:END-->
 
 ---
@@ -86,16 +86,6 @@ felps@dev:~$ cat sobre_mim.txt
 </div>
 
 >  Gráfico de atividade real do GitHub, estilizado como um monitor de tráfego de rede — cada pico é um commit "detectado".
-
----
-
-### `> ./run_terminal_metrics.sh`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/felpscodee/felpscodee/main/metrics.terminal.svg" alt="Terminal metrics" width="100%"/>
-
-</div>
 
 ---
 
