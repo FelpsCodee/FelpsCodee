@@ -1,70 +1,147 @@
-<h1 align="center">
-  🐧 FelpsCodee
-</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=felpscodee&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=root@felps:~%23%20whoami%20%7C%20dev%20%2B%20cybersec&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cpp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Analista+e+Desenvolvedor+de+Sistemas+(2026);Python+%7C+C%2B%2B+%7C+JavaScript;Explorando+o+universo+da+Cyberseguran%C3%A7a;Sempre+em+%5B~%5D+aprendendo+algo+novo..." />
 
----
-
-## 🐧 Sobre mim
-
-👨‍💻 Olá! Eu sou o **FelpsCodee**.  
-Sou um Estudante de Análise e Desenvolvimento de Sistemas e Cybersegurança e futuramente pretendo ser um dev Backend ou trabalhar na área da cybersegurança
-- Linux 🐧
-- Linguagens BackEnd 🐧
-- cybersecurity 🐧
-- Simplicidade eficiente 🐧
-
-> Sempre em Busca de aprendizado!
-
----
+</div>
 
 <p align="center">
-  <img src="https://media.tenor.com/W6he00oLuCEAAAAi/club-penguin-club-penguin-sweep.gif" width="300" alt="Hacker Tux"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00FF41?style=for-the-badge&logo=hackaday&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/FORMANDO-ADS%202026-00FF41?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0d1117"/>
 </p>
 
 ---
 
-## 🛠️ Ferramentas que uso e pretendo usar
+### `> whoami`
 
-🐧 Linux • ⚙️ C • 💻 C++ • 🐍 Python • 🐋 MySQL • 🖥️ Bash • 🧠 JAVA
+```bash
+felps@dev:~$ cat sobre_mim.txt
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-</p>
+[+] Estudante de Análise e Desenvolvimento de Sistemas (formando em 2026)
+[+] segurança da informação, redes e desenvolvimento
+[+] Construindo ferramentas, explorando vulnerabilidades e escrevendo código limpo
+[+] Sempre em modo de aprendizado contínuo: CTFs, labs e projetos autorais
 
----
-
-## 📊 Estatísticas do GitHub
-
-![FelpsCodee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelpsCodee&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffcc00&text_color=ffffff&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelpsCodee&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true)
+[STATUS] Compilando conhecimento... [########--] 80%
+```
 
 ---
 
-## 🔗 Contato
+### `> stack --list`
 
-🐱 **GitHub**: [FelpsCodee](https://github.com/FelpsCodee)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,linux,bash,mysql,git,github,vscode,docker&theme=dark" />
+
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF41)
+
+</div>
 
 ---
 
-<h2 align="center">🐧🐧🐧</h2>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/40/e1/6f/40e16f14fdc7bc10ed72f3ddfc8c87bd.gif" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="80"/>
-  <img src="https://i.pinimg.com/originals/40/e1/6f/40e16f14fdc7bc10ed72f3ddfc8c87bd.gif" width="100"/>
-</p>
-<h3 align="center"><strong>Que o Linux esteja com você.</strong></h3>
+### `> nmap -sV cybersec_toolkit`
+
+<div align="center">
+
+| Categoria | Ferramentas / Tópicos |
+|---|---|
+| 🔍 **Reconhecimento** | Nmap, Shodan, theHarvester |
+| 🛡️ **Pentest / Labs** | Kali Linux, Burp Suite, Metasploit, TryHackMe, HackTheBox |
+| 🕸️ **Redes** | Wireshark, TCP/IP, Firewalls, VPNs |
+| 🔐 **Segurança de Apps** | OWASP Top 10, SQL Injection, XSS |
+| 🧪 **CTF & Prática** | CryptoHack, PicoCTF, Root-Me |
+
+</div>
+
+---
+
+### `> tail -f /var/log/vuln_feed.log`
+
+<!--CVE:START-->
+**🔓 CVE do dia:** `carregando...`
+> Este bloco é atualizado automaticamente todos os dias por um bot em Python (veja `update_cve.py` + `cve-of-day.yml`), buscando uma vulnerabilidade real na base da NVD
+<!--CVE:END-->
+
+---
+
+### `> monitor --network-traffic`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=felpscodee&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&title_color=00ff41" width="100%"/>
+
+</div>
+
+>  Gráfico de atividade real do GitHub, estilizado como um monitor de tráfego de rede — cada pico é um commit "detectado".
+
+---
+
+### `> ./run_terminal_metrics.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/felpscodee/felpscodee/main/metrics.terminal.svg" alt="Terminal metrics" width="100%"/>
+
+</div>
+
+> terminal [`lowlighter/metrics`](https://github.com/lowlighter/metrics), atualizadas automaticamente pelo Actions (`metrics.yml`).
+
+---
+
+### `> ls -la /achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=felpscodee&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+>  "Troféus" do GitHub reaproveitados como conquistas desbloqueadas — commits, PRs, stars e streaks.
+
+---
+
+### `> stats --fetch`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=felpscodee&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=felpscodee&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpscodee&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false" />
+
+</div>
+
+---
+
+### `> trace_route --contact`
+
+<div align="center">
+
+<a href="https://github.com/felpscodee" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=felpscodee&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=120&section=footer" width="100%"/>

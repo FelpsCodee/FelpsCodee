@@ -1,0 +1,21 @@
+name: Generate Terminal Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_lines: yes
+          plugin_lines_sections: base
+          config_timezone: America/Sao_Paulo
