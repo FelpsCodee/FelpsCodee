@@ -58,11 +58,11 @@ felps@dev:~$ cat sobre_mim.txt
 
 | Categoria | Ferramentas / Tópicos |
 |---|---|
-| 🔍 **Reconhecimento** | Nmap, Shodan, theHarvester |
-| 🛡️ **Pentest / Labs** | Kali Linux, Burp Suite, Metasploit, TryHackMe, HackTheBox |
-| 🕸️ **Redes** | Wireshark, TCP/IP, Firewalls, VPNs |
-| 🔐 **Segurança de Apps** | OWASP Top 10, SQL Injection, XSS |
-| 🧪 **CTF & Prática** | CryptoHack, PicoCTF, Root-Me |
+|  **Reconhecimento** | Nmap, Shodan, theHarvester |
+|  **Pentest / Labs** | Kali Linux, Burp Suite, Metasploit, TryHackMe, HackTheBox |
+|  **Redes** | Wireshark, TCP/IP, Firewalls, VPNs |
+|  **Segurança de Apps** | OWASP Top 10, SQL Injection, XSS |
+|  **CTF & Prática** | CryptoHack, PicoCTF, Root-Me |
 
 </div>
 
@@ -94,33 +94,6 @@ felps@dev:~$ cat sobre_mim.txt
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/felpscodee/felpscodee/main/metrics.terminal.svg" alt="Terminal metrics" width="100%"/>
-
-</div>
-
-> terminal [`lowlighter/metrics`](https://github.com/lowlighter/metrics), atualizadas automaticamente pelo Actions (`metrics.yml`).
-
----
-
-### `> ls -la /achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=felpscodee&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
->  "Troféus" do GitHub reaproveitados como conquistas desbloqueadas — commits, PRs, stars e streaks.
-
----
-
-### `> stats --fetch`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=felpscodee&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=felpscodee&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpscodee&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false" />
 
 </div>
 
