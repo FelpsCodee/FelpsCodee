@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-0498](https://nvd.nist.gov/vuln/detail/CVE-1999-0498)
-> TFTP is not running in a restricted directory, allowing a remote attacker to access sensitive information such as password files.
+**CVE do dia:** [CVE-1999-0084](https://nvd.nist.gov/vuln/detail/CVE-1999-0084)
+> Certain NFS servers allow users to use mknod to gain privileges by creating a writable kmem device and setting the UID to 0.
 <!--CVE:END-->
 
 ---
