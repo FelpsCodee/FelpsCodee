@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-0084](https://nvd.nist.gov/vuln/detail/CVE-1999-0084)
-> Certain NFS servers allow users to use mknod to gain privileges by creating a writable kmem device and setting the UID to 0.
+**CVE do dia:** [CVE-1999-1468](https://nvd.nist.gov/vuln/detail/CVE-1999-1468)
+> rdist in various UNIX systems uses popen to execute sendmail, which allows local users to gain root privileges by modifying the IFS (Internal Field Separator) variable.
 <!--CVE:END-->
 
 ---
