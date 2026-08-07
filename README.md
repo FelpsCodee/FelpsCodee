@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1468](https://nvd.nist.gov/vuln/detail/CVE-1999-1468)
-> rdist in various UNIX systems uses popen to execute sendmail, which allows local users to gain root privileges by modifying the IFS (Internal Field Separator) variable.
+**CVE do dia:** [CVE-1999-1493](https://nvd.nist.gov/vuln/detail/CVE-1999-1493)
+> Vulnerability in crp in Hewlett Packard Apollo Domain OS SR10 through SR10.3 allows remote attackers to gain root privileges via insecure system calls, (1) pad_$dm_cmd and (2) pad_$def_pfk().
 <!--CVE:END-->
 
 ---
