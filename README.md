@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1493](https://nvd.nist.gov/vuln/detail/CVE-1999-1493)
-> Vulnerability in crp in Hewlett Packard Apollo Domain OS SR10 through SR10.3 allows remote attackers to gain root privileges via insecure system calls, (1) pad_$dm_cmd and (2) pad_$def_pfk().
+**CVE do dia:** [CVE-1999-1438](https://nvd.nist.gov/vuln/detail/CVE-1999-1438)
+> Vulnerability in /bin/mail in SunOS 4.1.1 and earlier allows local users to gain root privileges via certain command line arguments.
 <!--CVE:END-->
 
 ---
