@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1438](https://nvd.nist.gov/vuln/detail/CVE-1999-1438)
-> Vulnerability in /bin/mail in SunOS 4.1.1 and earlier allows local users to gain root privileges via certain command line arguments.
+**CVE do dia:** [CVE-1999-1197](https://nvd.nist.gov/vuln/detail/CVE-1999-1197)
+> TIOCCONS in SunOS 4.1.1 does not properly check the permissions of a user who tries to redirect console output and input, which could allow a local user to gain privileges.
 <!--CVE:END-->
 
 ---
