@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1197](https://nvd.nist.gov/vuln/detail/CVE-1999-1197)
-> TIOCCONS in SunOS 4.1.1 does not properly check the permissions of a user who tries to redirect console output and input, which could allow a local user to gain privileges.
+**CVE do dia:** [CVE-1999-1467](https://nvd.nist.gov/vuln/detail/CVE-1999-1467)
+> Vulnerability in rcp on SunOS 4.0.x allows remote attackers from trusted hosts to execute arbitrary commands as root, possibly related to the configuration of the nobody user.
 <!--CVE:END-->
 
 ---
