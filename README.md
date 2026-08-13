@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1467](https://nvd.nist.gov/vuln/detail/CVE-1999-1467)
-> Vulnerability in rcp on SunOS 4.0.x allows remote attackers from trusted hosts to execute arbitrary commands as root, possibly related to the configuration of the nobody user.
+**CVE do dia:** [CVE-1999-1162](https://nvd.nist.gov/vuln/detail/CVE-1999-1162)
+> Vulnerability in passwd in SCO UNIX 4.0 and earlier allows attackers to cause a denial of service by preventing users from being able to log into the system.
 <!--CVE:END-->
 
 ---
