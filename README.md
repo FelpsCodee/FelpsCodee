@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1162](https://nvd.nist.gov/vuln/detail/CVE-1999-1162)
-> Vulnerability in passwd in SCO UNIX 4.0 and earlier allows attackers to cause a denial of service by preventing users from being able to log into the system.
+**CVE do dia:** [CVE-1999-1059](https://nvd.nist.gov/vuln/detail/CVE-1999-1059)
+> Vulnerability in rexec daemon (rexecd) in AT&T TCP/IP 4.0 for various SVR4 systems allows remote attackers to execute arbitrary commands.
 <!--CVE:END-->
 
 ---
