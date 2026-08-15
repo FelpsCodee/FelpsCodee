@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1059](https://nvd.nist.gov/vuln/detail/CVE-1999-1059)
-> Vulnerability in rexec daemon (rexecd) in AT&T TCP/IP 4.0 for various SVR4 systems allows remote attackers to execute arbitrary commands.
+**CVE do dia:** [CVE-1999-1032](https://nvd.nist.gov/vuln/detail/CVE-1999-1032)
+> Vulnerability in LAT/Telnet Gateway (lattelnet) on Ultrix 4.1 and 4.2 allows attackers to gain root privileges.
 <!--CVE:END-->
 
 ---
