@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1032](https://nvd.nist.gov/vuln/detail/CVE-1999-1032)
-> Vulnerability in LAT/Telnet Gateway (lattelnet) on Ultrix 4.1 and 4.2 allows attackers to gain root privileges.
+**CVE do dia:** [CVE-1999-1057](https://nvd.nist.gov/vuln/detail/CVE-1999-1057)
+> VMS 4.0 through 5.3 allows local users to gain privileges via the ANALYZE/PROCESS_DUMP dcl command.
 <!--CVE:END-->
 
 ---
