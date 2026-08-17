@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1057](https://nvd.nist.gov/vuln/detail/CVE-1999-1057)
-> VMS 4.0 through 5.3 allows local users to gain privileges via the ANALYZE/PROCESS_DUMP dcl command.
+**CVE do dia:** [CVE-1999-1211](https://nvd.nist.gov/vuln/detail/CVE-1999-1211)
+> Vulnerability in in.telnetd in SunOS 4.1.1 and earlier allows local users to gain root privileges.
 <!--CVE:END-->
 
 ---
