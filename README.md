@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1391](https://nvd.nist.gov/vuln/detail/CVE-1999-1391)
-> Vulnerability in NeXT 1.0a and 1.0 with publicly accessible printers allows local users to gain privileges via a combination of the npd program and weak directory permissions.
+**CVE do dia:** [CVE-1999-1395](https://nvd.nist.gov/vuln/detail/CVE-1999-1395)
+> Vulnerability in Monitor utility (SYS$SHARE:SPISHR.EXE) in VMS 5.0 through 5.4-2 allows local users to gain privileges.
 <!--CVE:END-->
 
 ---
