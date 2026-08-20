@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1395](https://nvd.nist.gov/vuln/detail/CVE-1999-1395)
-> Vulnerability in Monitor utility (SYS$SHARE:SPISHR.EXE) in VMS 5.0 through 5.4-2 allows local users to gain privileges.
+**CVE do dia:** [CVE-1999-1059](https://nvd.nist.gov/vuln/detail/CVE-1999-1059)
+> Vulnerability in rexec daemon (rexecd) in AT&T TCP/IP 4.0 for various SVR4 systems allows remote attackers to execute arbitrary commands.
 <!--CVE:END-->
 
 ---
