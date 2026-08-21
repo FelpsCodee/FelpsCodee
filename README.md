@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1059](https://nvd.nist.gov/vuln/detail/CVE-1999-1059)
-> Vulnerability in rexec daemon (rexecd) in AT&T TCP/IP 4.0 for various SVR4 systems allows remote attackers to execute arbitrary commands.
+**CVE do dia:** [CVE-1999-1218](https://nvd.nist.gov/vuln/detail/CVE-1999-1218)
+> Vulnerability in finger in Commodore Amiga UNIX 2.1p2a and earlier allows local users to read arbitrary files.
 <!--CVE:END-->
 
 ---
