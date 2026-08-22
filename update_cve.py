@@ -1,88 +1,114 @@
 """
-Bot em Python que busca um CVE na base pública da NVD
-e atualiza o bloco correspondente no README.md automaticamente.
+Salve em: scripts/update_cve.py
+
+Busca no NVD (National Vulnerability Database) as CVEs publicadas nos
+ultimos dias e injeta a de maior severidade CVSS entre os marcadores
+<!--CVE:START--> e <!--CVE:END--> do README.md.
 """
 
-import os
 import re
-import random
+import sys
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+
 import requests
 
 NVD_API = "https://services.nvd.nist.gov/rest/json/cves/2.0"
+README = Path("README.md")
+JANELA_DIAS = 3
+TIMEOUT = 30
 
-def fetch_random_cve() -> tuple[str, str, str]:
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
+def buscar_cves(dias: int = JANELA_DIAS) -> list[dict]:
+    """Retorna as CVEs publicadas na janela de tempo informada."""
+    fim = datetime.now(timezone.utc)
+    inicio = fim - timedelta(days=dias)
+
+    params = {
+        "pubStartDate": inicio.strftime("%Y-%m-%dT%H:%M:%S.000"),
+        "pubEndDate": fim.strftime("%Y-%m-%dT%H:%M:%S.000"),
+        "resultsPerPage": 200,
     }
-    
-    nvd_api_key = os.getenv("NVD_API_KEY")
-    if nvd_api_key:
-        headers["apiKey"] = nvd_api_key
 
-    try:
-        start_index = random.randint(0, 50)
-        params = {
-            "resultsPerPage": 1,
-            "startIndex": start_index
-        }
-        
-        response = requests.get(
-            NVD_API,
-            headers=headers,
-            params=params,
-            timeout=15
-        )
-        response.raise_for_status()
-        data = response.json()
-
-        vuln = data["vulnerabilities"][0]["cve"]
-        cve_id = vuln["id"]
-        cve_url = f"https://nvd.nist.gov/vuln/detail/{cve_id}"
-
-        descriptions = vuln.get("descriptions", [])
-        description = next(
-            (d["value"] for d in descriptions if d["lang"] == "en"),
-            "Descrição indisponível."
-        )
-
-        if len(description) > 260:
-            description = description[:257].rsplit(" ", 1)[0] + "..."
-
-        return cve_id, description, cve_url
-
-    except Exception as exc: 
-        return "N/A", f"Não foi possível buscar o CVE hoje ({exc}).", "#"
+    resposta = requests.get(NVD_API, params=params, timeout=TIMEOUT)
+    resposta.raise_for_status()
+    return resposta.json().get("vulnerabilities", [])
 
 
-def update_readme(cve_id: str, description: str, cve_url: str, path: str = "README.md") -> None:
-    with open(path, "r", encoding="utf-8") as f:
-        content = f.read()
+def extrair_score(cve: dict) -> float:
+    """Le o score CVSS, tentando v3.1, v3.0 e v2 nessa ordem."""
+    metricas = cve.get("metrics", {})
+    for chave in ("cvssMetricV31", "cvssMetricV30", "cvssMetricV2"):
+        entradas = metricas.get(chave)
+        if entradas:
+            return float(entradas[0]["cvssData"]["baseScore"])
+    return 0.0
 
-  
-    if cve_id != "N/A":
-        cve_line = f"**CVE do dia:** [{cve_id}]({cve_url})\n"
-    else:
-        cve_line = f"**CVE do dia:** `{cve_id}`\n"
 
-    new_block = (
-        "<!--CVE:START-->\n"
-        f"{cve_line}"
-        f"> {description}\n"
-        "<!--CVE:END-->"
+def extrair_descricao(cve: dict) -> str:
+    """Pega a descricao em ingles e limita o tamanho para caber no README."""
+    for item in cve.get("descriptions", []):
+        if item.get("lang") == "en":
+            texto = " ".join(item["value"].split())
+            return texto[:220] + "..." if len(texto) > 220 else texto
+    return "Sem descricao disponivel."
+
+
+def severidade(score: float) -> str:
+    if score >= 9.0:
+        return "CRITICA"
+    if score >= 7.0:
+        return "ALTA"
+    if score >= 4.0:
+        return "MEDIA"
+    return "BAIXA"
+
+
+def montar_bloco(cve: dict, score: float) -> str:
+    cve_id = cve["id"]
+    data = cve.get("published", "")[:10]
+    url = f"https://nvd.nist.gov/vuln/detail/{cve_id}"
+
+    return (
+        f"<!--CVE:START-->\n"
+        f"**CVE do dia:** [{cve_id}]({url}) — "
+        f"`CVSS {score:.1f}` · **{severidade(score)}** · publicada em {data}\n"
+        f">\n"
+        f"> {extrair_descricao(cve)}\n"
+        f"<!--CVE:END-->"
     )
 
-    updated = re.sub(
-        r"<!--CVE:START-->.*<!--CVE:END-->",
-        new_block,
-        content,
+
+def main() -> int:
+    try:
+        vulnerabilidades = buscar_cves()
+    except requests.RequestException as erro:
+        print(f"[!] Falha ao consultar o NVD: {erro}", file=sys.stderr)
+        return 1
+
+    if not vulnerabilidades:
+        print("[!] Nenhuma CVE retornada na janela consultada.", file=sys.stderr)
+        return 0
+
+    candidatas = [(item["cve"], extrair_score(item["cve"])) for item in vulnerabilidades]
+    cve, score = max(candidatas, key=lambda par: par[1])
+
+    conteudo = README.read_text(encoding="utf-8")
+    novo = re.sub(
+        r"<!--CVE:START-->.*?<!--CVE:END-->",
+        montar_bloco(cve, score).replace("\\", "\\\\"),
+        conteudo,
         flags=re.DOTALL,
     )
 
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(updated)
+    if novo == conteudo:
+        print("[=] README ja esta atualizado.")
+        return 0
+
+    README.write_text(novo, encoding="utf-8")
+    print(f"[+] README atualizado com {cve['id']} (CVSS {score:.1f})")
+    return 0
 
 
 if __name__ == "__main__":
-    cve_id, description, cve_url = fetch_random_cve()
-    update_readme(cve_id, description, cve_url)
-    print(f"README atualizado com {cve_id}")
+    raise SystemExit(main())
