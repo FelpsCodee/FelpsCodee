@@ -109,7 +109,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** carregando...
+**CVE do dia:** [CVE-2026-73992](https://nvd.nist.gov/vuln/detail/CVE-2026-73992) — `CVSS 9.9` · **CRITICA** · publicada em 2026-08-20
+>
+> Subscriber Remote Code Execution (RCE) in Query Wrangler <= 1.5.57 versions.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.

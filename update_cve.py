@@ -1,6 +1,4 @@
 """
-Salve em: scripts/update_cve.py
-
 Busca no NVD (National Vulnerability Database) as CVEs publicadas nos
 ultimos dias e injeta a de maior severidade CVSS entre os marcadores
 <!--CVE:START--> e <!--CVE:END--> do README.md.
