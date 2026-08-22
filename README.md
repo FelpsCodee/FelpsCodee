@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=FelpsCodee&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=QA%20Engineer%20%7C%20Test%20Automation%20%7C%20Application%20Security&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Felipe%20%Correia&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=QA%20Engineer%20%7C%20Test%20Automation%20%7C%20Application%20Security&descAlignY=56&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF41&center=true&vCenter=true&width=680&lines=QA+Engineer+%40+KaBuM!+%7C+Python+%2B+Playwright+%2B+Pytest;Analista+e+Desenvolvedor+de+Sistemas+(ADS+2026);Python+%7C+C+%7C+C%2B%2B+%7C+C%23+%7C+SQL;Foco+em+Application+Security+e+automa%C3%A7%C3%A3o+de+testes" />
 
