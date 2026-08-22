@@ -71,8 +71,8 @@ felps@dev:~$ cat sobre_mim.txt
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-1999-1218](https://nvd.nist.gov/vuln/detail/CVE-1999-1218)
-> Vulnerability in finger in Commodore Amiga UNIX 2.1p2a and earlier allows local users to read arbitrary files.
+**CVE do dia:** [CVE-1999-0082](https://nvd.nist.gov/vuln/detail/CVE-1999-0082)
+> CWD ~root command in ftpd allows root access.
 <!--CVE:END-->
 
 ---
