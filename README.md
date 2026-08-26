@@ -109,9 +109,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-77946](https://nvd.nist.gov/vuln/detail/CVE-2026-77946) — `CVSS 10.0` · **CRITICA** · publicada em 2026-08-22
+**CVE do dia:** [CVE-2026-78167](https://nvd.nist.gov/vuln/detail/CVE-2026-78167) — `CVSS 10.0` · **CRITICA** · publicada em 2026-08-24
 >
-> A vulnerability was determined in TRENDnet TEW-821DAP 2.2.01b05. Affected by this vulnerability is the function uci_safe_get of the file /cgi-bin/apply_time.cgi of the component NTP Timezone Configuration Handler. Execut...
+> A weakness has been identified in EFM ipTIME T16000M 14.20.2. The impacted element is the function httpcon_check_session_url of the component Session Validation Handler. This manipulation causes improper authentication. ...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
