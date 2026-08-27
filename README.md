@@ -109,9 +109,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-78167](https://nvd.nist.gov/vuln/detail/CVE-2026-78167) — `CVSS 10.0` · **CRITICA** · publicada em 2026-08-24
+**CVE do dia:** [CVE-2026-32559](https://nvd.nist.gov/vuln/detail/CVE-2026-32559) — `CVSS 9.9` · **CRITICA** · publicada em 2026-08-24
 >
-> A weakness has been identified in EFM ipTIME T16000M 14.20.2. The impacted element is the function httpcon_check_session_url of the component Session Validation Handler. This manipulation causes improper authentication. ...
+> Subscriber Arbitrary File Upload in UltimateAI <= 3.1.0 versions.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
