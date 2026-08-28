@@ -109,9 +109,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-32559](https://nvd.nist.gov/vuln/detail/CVE-2026-32559) — `CVSS 9.9` · **CRITICA** · publicada em 2026-08-24
+**CVE do dia:** [CVE-2026-65083](https://nvd.nist.gov/vuln/detail/CVE-2026-65083) — `CVSS 9.9` · **CRITICA** · publicada em 2026-08-25
 >
-> Subscriber Arbitrary File Upload in UltimateAI <= 3.1.0 versions.
+> NVIDIA OpenShell for Linux contains a vulnerability in its sandbox provisioning API, where an attacker could cause an incomplete list of disallowed inputs. A successful exploit of this vulnerability might lead to code ex...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
