@@ -109,9 +109,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-65083](https://nvd.nist.gov/vuln/detail/CVE-2026-65083) — `CVSS 9.9` · **CRITICA** · publicada em 2026-08-25
+**CVE do dia:** [CVE-2026-74737](https://nvd.nist.gov/vuln/detail/CVE-2026-74737) — `CVSS 9.8` · **CRITICA** · publicada em 2026-08-26
 >
-> NVIDIA OpenShell for Linux contains a vulnerability in its sandbox provisioning API, where an attacker could cause an incomplete list of disallowed inputs. A successful exploit of this vulnerability might lead to code ex...
+> In the Linux kernel, the following vulnerability has been resolved: net: ethernet: ti: am65-cpsw-nuss: Fix port_id extraction from SRC TAG On the packet reception path, the ID of the MAC Port on which the packet was rece...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
