@@ -109,9 +109,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-74737](https://nvd.nist.gov/vuln/detail/CVE-2026-74737) — `CVSS 9.8` · **CRITICA** · publicada em 2026-08-26
+**CVE do dia:** [CVE-2026-16279](https://nvd.nist.gov/vuln/detail/CVE-2026-16279) — `CVSS 9.3` · **CRITICA** · publicada em 2026-08-27
 >
-> In the Linux kernel, the following vulnerability has been resolved: net: ethernet: ti: am65-cpsw-nuss: Fix port_id extraction from SRC TAG On the packet reception path, the ID of the MAC Port on which the packet was rece...
+> An Improper Authorization vulnerability affecting 3DPassport in 3DSwymer from Release 3DEXPERIENCE R2023x through Release 3DEXPERIENCE R2026x could allow an attacker to gain access to some user accounts.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
