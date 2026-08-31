@@ -124,7 +124,7 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> monitor --network-traffic`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelpsCodee&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&title_color=00ff41" width="100%"/>
+<img src="https://raw.githubusercontent.com/FelpsCodee/FelpsCodee/main/metrics.calendar.svg" width="100%"/>
 </div>
 
 ---
