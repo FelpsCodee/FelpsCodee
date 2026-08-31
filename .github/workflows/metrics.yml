@@ -2,14 +2,17 @@ name: Generate Terminal Metrics
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # 1x por dia, 06:00 UTC (03:00 em Sao Paulo) — nao a cada 6h
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
