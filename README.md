@@ -1,10 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Felipe%20Correia&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=QA%20Engineer%20%7C%20Test%20Automation%20%7C%20Application%20Security&descAlignY=56&descSize=16" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF41&center=true&vCenter=true&width=680&lines=QA+Engineer+%40+KaBuM!+%7C+Python+%2B+Playwright+%2B+Pytest;Analista+e+Desenvolvedor+de+Sistemas+(ADS+2026);Python+%7C+C+%7C+C%2B%2B+%7C+C%23+%7C+SQL;Foco+em+Application+Security+e+automa%C3%A7%C3%A3o+de+testes" />
-
 <br/>
-
 <a href="https://www.linkedin.com/in/felipe-correia-139a88344/">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
@@ -13,7 +10,6 @@
 </a>
 <img src="https://img.shields.io/badge/Limeira%20%2F%20SP-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/ADS-2026-0d1117?style=for-the-badge&logo=googlescholar&logoColor=00FF41"/>
-
 </div>
 
 ---
@@ -22,7 +18,6 @@
 
 ```bash
 felps@dev:~$ cat sobre_mim.txt
-
 [+] QA Engineer no KaBuM! — automação de testes com Python, Playwright e Pytest
 [+] Cursando Análise e Desenvolvimento de Sistemas (formando em dez/2026)
 [+] Base em C, C++, C# e SQL — do baixo nível ao back-end
@@ -57,14 +52,12 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 </div>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Gherkin-0d1117?style=for-the-badge&logo=cucumber&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=00FF41"/>
-
 </div>
 
 ---
@@ -115,6 +108,16 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
+
+---
+
+### `> uptime`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/FelpsCodee/FelpsCodee/main/metrics.terminal.svg" width="480"/>
+</div>
+
+> Gerado automaticamente todo dia às 06:00 UTC via GitHub Actions.
 
 ---
 
