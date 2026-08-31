@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-16279](https://nvd.nist.gov/vuln/detail/CVE-2026-16279) — `CVSS 9.3` · **CRITICA** · publicada em 2026-08-27
+**CVE do dia:** [CVE-2026-54745](https://nvd.nist.gov/vuln/detail/CVE-2026-54745) — `CVSS 10.0` · **CRITICA** · publicada em 2026-08-28
 >
-> An Improper Authorization vulnerability affecting 3DPassport in 3DSwymer from Release 3DEXPERIENCE R2023x through Release 3DEXPERIENCE R2026x could allow an attacker to gain access to some user accounts.
+> Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows. Prior to 2.17.0, the Kubeflow Pipelines frontend exposes an unauthenticated server-side request forgery vulnerability th...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
