@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-82456](https://nvd.nist.gov/vuln/detail/CVE-2026-82456) — `CVSS 10.0` · **CRITICA** · publicada em 2026-08-29
+**CVE do dia:** [CVE-2026-82693](https://nvd.nist.gov/vuln/detail/CVE-2026-82693) — `CVSS 10.0` · **CRITICA** · publicada em 2026-08-31
 >
-> argocd-mcp 0.8.0 binds its HTTP transport to every network interface and accepts MCP sessions without requiring caller credentials when ARGOCD_API_TOKEN is configured. Attackers who can reach the listener can invoke the ...
+> A vulnerability was determined in Tenda AC1206 15.03.06.23. This vulnerability affects the function TendaTelnet of the file /goform/telnet of the component Web UI. Executing a manipulation can lead to missing authenticat...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
