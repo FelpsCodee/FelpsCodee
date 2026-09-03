@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-82693](https://nvd.nist.gov/vuln/detail/CVE-2026-82693) — `CVSS 10.0` · **CRITICA** · publicada em 2026-08-31
+**CVE do dia:** [CVE-2026-82970](https://nvd.nist.gov/vuln/detail/CVE-2026-82970) — `CVSS 10.0` · **CRITICA** · publicada em 2026-08-31
 >
-> A vulnerability was determined in Tenda AC1206 15.03.06.23. This vulnerability affects the function TendaTelnet of the file /goform/telnet of the component Web UI. Executing a manipulation can lead to missing authenticat...
+> Unrestricted Upload of File with Dangerous Type vulnerability in WP Legal Pages WP Cookie Notice for GDPR, CCPA & ePrivacy Consent allows Using Malicious Files. This issue affects WP Cookie Notice for GDPR, CCPA & ePriva...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
