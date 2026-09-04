@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-82970](https://nvd.nist.gov/vuln/detail/CVE-2026-82970) — `CVSS 10.0` · **CRITICA** · publicada em 2026-08-31
+**CVE do dia:** [CVE-2026-18765](https://nvd.nist.gov/vuln/detail/CVE-2026-18765) — `CVSS 9.8` · **CRITICA** · publicada em 2026-09-01
 >
-> Unrestricted Upload of File with Dangerous Type vulnerability in WP Legal Pages WP Cookie Notice for GDPR, CCPA & ePrivacy Consent allows Using Malicious Files. This issue affects WP Cookie Notice for GDPR, CCPA & ePriva...
+> Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in Teracity Software Technologies Inc. E-OSB allows SQL Injection. This issue affects E-OSB: before V02.26.07.08.01.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
