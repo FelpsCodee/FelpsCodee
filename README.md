@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-18765](https://nvd.nist.gov/vuln/detail/CVE-2026-18765) — `CVSS 9.8` · **CRITICA** · publicada em 2026-09-01
+**CVE do dia:** [CVE-2026-4357](https://nvd.nist.gov/vuln/detail/CVE-2026-4357) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-02
 >
-> Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in Teracity Software Technologies Inc. E-OSB allows SQL Injection. This issue affects E-OSB: before V02.26.07.08.01.
+> The Embed HTML5 Game WordPress plugin through 1.3 does not properly restrict who can upload files via the plugin, as well as what can be uploaded, making it possible for unauthenticated attackers to upload PHP backdoors ...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
