@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-4357](https://nvd.nist.gov/vuln/detail/CVE-2026-4357) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-02
+**CVE do dia:** [CVE-2026-85031](https://nvd.nist.gov/vuln/detail/CVE-2026-85031) — `CVSS 9.9` · **CRITICA** · publicada em 2026-09-03
 >
-> The Embed HTML5 Game WordPress plugin through 1.3 does not properly restrict who can upload files via the plugin, as well as what can be uploaded, making it possible for unauthenticated attackers to upload PHP backdoors ...
+> A vulnerability was found in TOTOLINK CP450 4.1.0. The impacted element is an unknown function of the file /cgi-bin/cstecgi.cgi. Performing a manipulation of the argument topicurl results in buffer overflow. Remote explo...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
