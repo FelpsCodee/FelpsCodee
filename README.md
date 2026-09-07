@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-85031](https://nvd.nist.gov/vuln/detail/CVE-2026-85031) — `CVSS 9.9` · **CRITICA** · publicada em 2026-09-03
+**CVE do dia:** [CVE-2026-85661](https://nvd.nist.gov/vuln/detail/CVE-2026-85661) — `CVSS 9.8` · **CRITICA** · publicada em 2026-09-04
 >
-> A vulnerability was found in TOTOLINK CP450 4.1.0. The impacted element is an unknown function of the file /cgi-bin/cstecgi.cgi. Performing a manipulation of the argument topicurl results in buffer overflow. Remote explo...
+> excel-mcp-server 0.1.8 fails to enforce path confinement in stdio mode when EXCEL_FILES_PATH is unset, allowing attackers to read and write arbitrary files. Attackers can supply unchecked file paths to read and write too...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
