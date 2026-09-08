@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-85661](https://nvd.nist.gov/vuln/detail/CVE-2026-85661) — `CVSS 9.8` · **CRITICA** · publicada em 2026-09-04
+**CVE do dia:** [CVE-2026-86152](https://nvd.nist.gov/vuln/detail/CVE-2026-86152) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-06
 >
-> excel-mcp-server 0.1.8 fails to enforce path confinement in stdio mode when EXCEL_FILES_PATH is unset, allowing attackers to read and write arbitrary files. Attackers can supply unchecked file paths to read and write too...
+> A flaw has been found in Tenda CP3 27.5.57.101. The impacted element is the function CAutoAddWifi::ThreadProc of the file Functions/AutoAddWifi.cpp of the component Kylin. Executing a manipulation can lead to os command ...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
