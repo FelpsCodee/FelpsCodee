@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-86152](https://nvd.nist.gov/vuln/detail/CVE-2026-86152) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-06
+**CVE do dia:** [CVE-2026-86296](https://nvd.nist.gov/vuln/detail/CVE-2026-86296) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-07
 >
-> A flaw has been found in Tenda CP3 27.5.57.101. The impacted element is the function CAutoAddWifi::ThreadProc of the file Functions/AutoAddWifi.cpp of the component Kylin. Executing a manipulation can lead to os command ...
+> A vulnerability was determined in D-Link DIR-822A A_101. This vulnerability affects the function strcpy of the file udhcpcd/serverpacket.c of the component udhcpcd. This manipulation causes stack-based buffer overflow. T...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
