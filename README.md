@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-86296](https://nvd.nist.gov/vuln/detail/CVE-2026-86296) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-07
+**CVE do dia:** [CVE-2026-75650](https://nvd.nist.gov/vuln/detail/CVE-2026-75650) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-07
 >
-> A vulnerability was determined in D-Link DIR-822A A_101. This vulnerability affects the function strcpy of the file udhcpcd/serverpacket.c of the component udhcpcd. This manipulation causes stack-based buffer overflow. T...
+> Adobe Commerce is affected by an Improper Neutralization of Special Elements Used in a Template Engine vulnerability that could result in arbitrary code execution in the context of the current user. An attacker could exp...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
