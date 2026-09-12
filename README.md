@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-12645](https://nvd.nist.gov/vuln/detail/CVE-2026-12645) — `CVSS 9.9` · **CRITICA** · publicada em 2026-09-08
+**CVE do dia:** [CVE-2026-67401](https://nvd.nist.gov/vuln/detail/CVE-2026-67401) — `CVSS 9.9` · **CRITICA** · publicada em 2026-09-09
 >
-> A Missing Authorization vulnerability in Ivanti Neurons for ITSM before 2026.2 allows a remote authenticated attacker to execute arbitrary code on the server.
+> A vulnerability in cPanel allows a mail-enabled account to achieve remote code execution as root through SQLi in EmailTrack component
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
