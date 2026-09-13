@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-67401](https://nvd.nist.gov/vuln/detail/CVE-2026-67401) — `CVSS 9.9` · **CRITICA** · publicada em 2026-09-09
+**CVE do dia:** [CVE-2026-68487](https://nvd.nist.gov/vuln/detail/CVE-2026-68487) — `CVSS 9.9` · **CRITICA** · publicada em 2026-09-10
 >
-> A vulnerability in cPanel allows a mail-enabled account to achieve remote code execution as root through SQLi in EmailTrack component
+> Path traversal in Plesk's Backup Manager causes arbitrary file write as root by an authenticated customer.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
