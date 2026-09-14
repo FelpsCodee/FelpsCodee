@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-68487](https://nvd.nist.gov/vuln/detail/CVE-2026-68487) — `CVSS 9.9` · **CRITICA** · publicada em 2026-09-10
+**CVE do dia:** [CVE-2026-72709](https://nvd.nist.gov/vuln/detail/CVE-2026-72709) — `CVSS 9.8` · **CRITICA** · publicada em 2026-09-11
 >
-> Path traversal in Plesk's Backup Manager causes arbitrary file write as root by an authenticated customer.
+> SPIP before 4.4.18 contains a missing authorization vulnerability in the administrative action endpoints under ecrire/action/ that allows unauthenticated attackers to perform privileged actions by supplying a valid HMAC-...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
