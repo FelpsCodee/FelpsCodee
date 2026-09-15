@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-72709](https://nvd.nist.gov/vuln/detail/CVE-2026-72709) — `CVSS 9.8` · **CRITICA** · publicada em 2026-09-11
+**CVE do dia:** [CVE-2026-81648](https://nvd.nist.gov/vuln/detail/CVE-2026-81648) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-13
 >
-> SPIP before 4.4.18 contains a missing authorization vulnerability in the administrative action endpoints under ecrire/action/ that allows unauthenticated attackers to perform privileged actions by supplying a valid HMAC-...
+> The CryptoPayment Gateway WordPress plugin from 1.2.1 to 1.2.2 does not apply an authorization check on one of its AJAX endpoints, allowing unauthenticated users to invoke administrative operations, including deleting ar...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
