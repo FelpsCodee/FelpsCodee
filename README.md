@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-81648](https://nvd.nist.gov/vuln/detail/CVE-2026-81648) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-13
+**CVE do dia:** [CVE-2026-16338](https://nvd.nist.gov/vuln/detail/CVE-2026-16338) — `CVSS 9.9` · **CRITICA** · publicada em 2026-09-14
 >
-> The CryptoPayment Gateway WordPress plugin from 1.2.1 to 1.2.2 does not apply an authorization check on one of its AJAX endpoints, allowing unauthenticated users to invoke administrative operations, including deleting ar...
+> IBM DataStage on Cloud Pak for Data 5.4.0.0 IBM DataStage could allow a remote authenticated attacker to perform an arbitrary file write due to improper validation of file paths.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
