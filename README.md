@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-16338](https://nvd.nist.gov/vuln/detail/CVE-2026-16338) — `CVSS 9.9` · **CRITICA** · publicada em 2026-09-14
+**CVE do dia:** [CVE-2026-59971](https://nvd.nist.gov/vuln/detail/CVE-2026-59971) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-15
 >
-> IBM DataStage on Cloud Pak for Data 5.4.0.0 IBM DataStage could allow a remote authenticated attacker to perform an arbitrary file write due to improper validation of file paths.
+> MySQL MCP Server is a Model Context Protocol server that enables secure interaction with MySQL databases. Prior to 0.4.2, setting MCP_TRANSPORT=sse causes src/mysql_mcp_server/server.py to construct SseServerTransport wi...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
