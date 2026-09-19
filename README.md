@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-59971](https://nvd.nist.gov/vuln/detail/CVE-2026-59971) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-15
+**CVE do dia:** [CVE-2026-70416](https://nvd.nist.gov/vuln/detail/CVE-2026-70416) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-16
 >
-> MySQL MCP Server is a Model Context Protocol server that enables secure interaction with MySQL databases. Prior to 0.4.2, setting MCP_TRANSPORT=sse causes src/mysql_mcp_server/server.py to construct SseServerTransport wi...
+> Dell ObjectScale, versions prior to 4.4.0.0, contains a Deserialization of Untrusted Data vulnerability. An unauthenticated attacker with remote access could potentially exploit this vulnerability, leading to Remote exec...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
