@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-70416](https://nvd.nist.gov/vuln/detail/CVE-2026-70416) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-16
+**CVE do dia:** [CVE-2026-62104](https://nvd.nist.gov/vuln/detail/CVE-2026-62104) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-17
 >
-> Dell ObjectScale, versions prior to 4.4.0.0, contains a Deserialization of Untrusted Data vulnerability. An unauthenticated attacker with remote access could potentially exploit this vulnerability, leading to Remote exec...
+> Unauthenticated Remote Code Execution (RCE) in Migratico Lite <= 2.6.8 versions.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
