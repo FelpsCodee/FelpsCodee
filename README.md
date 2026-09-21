@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-62104](https://nvd.nist.gov/vuln/detail/CVE-2026-62104) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-17
+**CVE do dia:** [CVE-2025-15399](https://nvd.nist.gov/vuln/detail/CVE-2025-15399) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-18
 >
-> Unauthenticated Remote Code Execution (RCE) in Migratico Lite <= 2.6.8 versions.
+> IBM Common Licensing Agent 9.0, Agent 9.0.0.1, Agent 9.0.0.2, ART 9.0, ART 9.0.0.1, and ART 9.0.0.2 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions ...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
