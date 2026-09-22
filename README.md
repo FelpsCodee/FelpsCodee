@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2025-15399](https://nvd.nist.gov/vuln/detail/CVE-2025-15399) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-18
+**CVE do dia:** [CVE-2026-94003](https://nvd.nist.gov/vuln/detail/CVE-2026-94003) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-20
 >
-> IBM Common Licensing Agent 9.0, Agent 9.0.0.1, Agent 9.0.0.2, ART 9.0, ART 9.0.0.1, and ART 9.0.0.2 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions ...
+> A vulnerability has been found in Comfast CF-N1-S 2.6.0.1. Impacted is the function get_css_path_from_uri of the file /cgi-bin/mbox-config of the component Web Management Interface. The manipulation leads to stack-based ...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
