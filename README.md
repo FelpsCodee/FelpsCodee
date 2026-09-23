@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-94003](https://nvd.nist.gov/vuln/detail/CVE-2026-94003) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-20
+**CVE do dia:** [CVE-2026-94089](https://nvd.nist.gov/vuln/detail/CVE-2026-94089) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-20
 >
-> A vulnerability has been found in Comfast CF-N1-S 2.6.0.1. Impacted is the function get_css_path_from_uri of the file /cgi-bin/mbox-config of the component Web Management Interface. The manipulation leads to stack-based ...
+> A vulnerability was determined in D-Link DIR-868L 2.01b05. This issue affects the function strcpy of the file /webfa_authentication.cgi of the component Authentication Handler. Executing a manipulation of the argument id...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
