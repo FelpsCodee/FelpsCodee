@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-94089](https://nvd.nist.gov/vuln/detail/CVE-2026-94089) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-20
+**CVE do dia:** [CVE-2026-77521](https://nvd.nist.gov/vuln/detail/CVE-2026-77521) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-21
 >
-> A vulnerability was determined in D-Link DIR-868L 2.01b05. This issue affects the function strcpy of the file /webfa_authentication.cgi of the component Authentication Handler. Executing a manipulation of the argument id...
+> MaxKB is an open-source AI assistant for enterprise. Prior to version 2.10.5-lts, assistants with a tool, MCP tool, skill, or sub-application use SandboxShellBackend, which exposes an execute shell tool without excluding...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
