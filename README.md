@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-77521](https://nvd.nist.gov/vuln/detail/CVE-2026-77521) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-21
+**CVE do dia:** [CVE-2026-80155](https://nvd.nist.gov/vuln/detail/CVE-2026-80155) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-22
 >
-> MaxKB is an open-source AI assistant for enterprise. Prior to version 2.10.5-lts, assistants with a tool, MCP tool, skill, or sub-application use SandboxShellBackend, which exposes an execute shell tool without excluding...
+> Lantronix SLC8000 before firmware v9.7.0.5, SLC9000 before firmware v9.7.0.2, EMG8500/EMG7500 before firmware v9.7.0.1, and all firmware versions of SLB882/SLCx-03/SLCx-02 contain an authentication bypass vulnerability i...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
