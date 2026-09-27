@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-59167](https://nvd.nist.gov/vuln/detail/CVE-2026-59167) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-23
+**CVE do dia:** [CVE-2026-93425](https://nvd.nist.gov/vuln/detail/CVE-2026-93425) — `CVSS 9.9` · **CRITICA** · publicada em 2026-09-24
 >
-> SunEditor is a lightweight and powerful WYSIWYG editor in vanilla JavaScript with no dependencies. Prior to 2.47.11, the sanitizer in src/lib/core.js does not consistently reject namespaced or custom HTML elements, allow...
+> Dokploy is a free, self-hostable Platform as a Service (PaaS). Prior to 0.29.13, the patch.readRepoDirectories tRPC procedure passes the user-controlled repoPath value from apps/dokploy/server/api/routers/patch.ts into a...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
