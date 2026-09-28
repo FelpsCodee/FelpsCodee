@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-93425](https://nvd.nist.gov/vuln/detail/CVE-2026-93425) — `CVSS 9.9` · **CRITICA** · publicada em 2026-09-24
+**CVE do dia:** [CVE-2026-97063](https://nvd.nist.gov/vuln/detail/CVE-2026-97063) — `CVSS 9.1` · **CRITICA** · publicada em 2026-09-25
 >
-> Dokploy is a free, self-hostable Platform as a Service (PaaS). Prior to 0.29.13, the patch.readRepoDirectories tRPC procedure passes the user-controlled repoPath value from apps/dokploy/server/api/routers/patch.ts into a...
+> X-SpringBoot through 6.0 returns login verification codes in HTTP responses from unauthenticated endpoints GET /sys/mobile/code and GET /sys/email/code without sending them to account owners. Attackers can request codes ...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
