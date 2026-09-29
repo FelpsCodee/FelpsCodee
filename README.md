@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-97063](https://nvd.nist.gov/vuln/detail/CVE-2026-97063) — `CVSS 9.1` · **CRITICA** · publicada em 2026-09-25
+**CVE do dia:** [CVE-2026-88773](https://nvd.nist.gov/vuln/detail/CVE-2026-88773) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-27
 >
-> X-SpringBoot through 6.0 returns login verification codes in HTTP responses from unauthenticated endpoints GET /sys/mobile/code and GET /sys/email/code without sending them to account owners. Attackers can request codes ...
+> Inconsistent interpretation of HTTP requests ('HTTP Request/Response smuggling') vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
