@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-88773](https://nvd.nist.gov/vuln/detail/CVE-2026-88773) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-27
+**CVE do dia:** [CVE-2026-101076](https://nvd.nist.gov/vuln/detail/CVE-2026-101076) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-28
 >
-> Inconsistent interpretation of HTTP requests ('HTTP Request/Response smuggling') vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14...
+> A vulnerability was detected in Netcore NR289-GE 1.4.5102. This affects the function system of the file /set_ntp_server_ip.cgi of the component CGI Handler. The manipulation of the argument ntp_ip results in os command i...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
