@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2023-54400](https://nvd.nist.gov/vuln/detail/CVE-2023-54400) — `CVSS 9.8` · **CRITICA** · publicada em 2026-09-29
+**CVE do dia:** [CVE-2026-102427](https://nvd.nist.gov/vuln/detail/CVE-2026-102427) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-30
 >
-> Fumasoft Fumeng Cloud contains a SQL injection vulnerability in the AjaxMethod.ashx endpoint that allows unauthenticated remote attackers to inject arbitrary SQL through the Name parameter of the getEmpByname action with...
+> Joomla Extension - ordasoft.com - Unauthenticated Remote Code Execution in OrdaSoft Joomla CCK < 8.3.16 - site/uploader.php is reached through the component’s normal frontend routing (task=getContent), a task with no aut...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
