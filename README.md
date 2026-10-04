@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-102427](https://nvd.nist.gov/vuln/detail/CVE-2026-102427) — `CVSS 10.0` · **CRITICA** · publicada em 2026-09-30
+**CVE do dia:** [CVE-2026-96658](https://nvd.nist.gov/vuln/detail/CVE-2026-96658) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-01
 >
-> Joomla Extension - ordasoft.com - Unauthenticated Remote Code Execution in OrdaSoft Joomla CCK < 8.3.16 - site/uploader.php is reached through the component’s normal frontend routing (task=getContent), a task with no aut...
+> A flaw was found in Foreman. An authenticated attacker with low-level permissions can achieve remote code execution (RCE) by bypassing the safemode sandbox within the templating engine. Due to improper handling of delega...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
