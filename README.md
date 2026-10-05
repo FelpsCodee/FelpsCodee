@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-96658](https://nvd.nist.gov/vuln/detail/CVE-2026-96658) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-01
+**CVE do dia:** [CVE-2026-103956](https://nvd.nist.gov/vuln/detail/CVE-2026-103956) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-02
 >
-> A flaw was found in Foreman. An authenticated attacker with low-level permissions can achieve remote code execution (RCE) by bypassing the safemode sandbox within the templating engine. Due to improper handling of delega...
+> Missing authentication for critical function in the authentication dependency in Loom for AWS before 1.6.1 allowed remote actors to obtain super-admin authority over the agent control plane, including registering tool se...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
