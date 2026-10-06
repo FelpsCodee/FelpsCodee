@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-103956](https://nvd.nist.gov/vuln/detail/CVE-2026-103956) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-02
+**CVE do dia:** [CVE-2026-105134](https://nvd.nist.gov/vuln/detail/CVE-2026-105134) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-04
 >
-> Missing authentication for critical function in the authentication dependency in Loom for AWS before 1.6.1 allowed remote actors to obtain super-admin authority over the agent control plane, including registering tool se...
+> A flaw has been found in Ahsay AhsayCBS up to 10.3.2. This vulnerability affects unknown code of the file /rps/api/json/UpdateReceivers.do of the component Replication Receiver. Executing a manipulation of the argument r...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
