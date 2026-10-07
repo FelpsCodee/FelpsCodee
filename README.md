@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-105134](https://nvd.nist.gov/vuln/detail/CVE-2026-105134) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-04
+**CVE do dia:** [CVE-2026-105284](https://nvd.nist.gov/vuln/detail/CVE-2026-105284) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-05
 >
-> A flaw has been found in Ahsay AhsayCBS up to 10.3.2. This vulnerability affects unknown code of the file /rps/api/json/UpdateReceivers.do of the component Replication Receiver. Executing a manipulation of the argument r...
+> A weakness has been identified in Totolink A3002MU 1.0.0-B20230403.1455. The impacted element is the function sub_40FCFC of the file /bin/boa of the component Authentication Check. Executing a manipulation can lead to im...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
