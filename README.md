@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-105284](https://nvd.nist.gov/vuln/detail/CVE-2026-105284) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-05
+**CVE do dia:** [CVE-2026-105636](https://nvd.nist.gov/vuln/detail/CVE-2026-105636) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-05
 >
-> A weakness has been identified in Totolink A3002MU 1.0.0-B20230403.1455. The impacted element is the function sub_40FCFC of the file /bin/boa of the component Authentication Check. Executing a manipulation can lead to im...
+> Plane is an open-source project management tool. Prior to 1.4.0, the webhook delivery task in apps/api/plane/bgtasks/webhook_task.py calls requests.post() without allow_redirects=False and does not validate redirect targ...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
