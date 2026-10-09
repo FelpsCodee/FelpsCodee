@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-105636](https://nvd.nist.gov/vuln/detail/CVE-2026-105636) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-05
+**CVE do dia:** [CVE-2026-105857](https://nvd.nist.gov/vuln/detail/CVE-2026-105857) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-06
 >
-> Plane is an open-source project management tool. Prior to 1.4.0, the webhook delivery task in apps/api/plane/bgtasks/webhook_task.py calls requests.post() without allow_redirects=False and does not validate redirect targ...
+> Payload is a free and open source headless content management system. In @payloadcms/plugin-form-builder versions before 3.90.0 and canary versions before 4.0.0-canary.34, an attacker can craft a form submission that exe...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
