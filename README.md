@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-105857](https://nvd.nist.gov/vuln/detail/CVE-2026-105857) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-06
+**CVE do dia:** [CVE-2025-70518](https://nvd.nist.gov/vuln/detail/CVE-2025-70518) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-07
 >
-> Payload is a free and open source headless content management system. In @payloadcms/plugin-form-builder versions before 3.90.0 and canary versions before 4.0.0-canary.34, an attacker can craft a form submission that exe...
+> The management portal's diagnostic ping tool of Fanvil x7a firmware version 2.6.0.1182 does not handle user supplied input securely. The lack of secure user input handling allows any unauthenticated attacker to inject co...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
