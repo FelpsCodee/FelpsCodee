@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2025-70518](https://nvd.nist.gov/vuln/detail/CVE-2025-70518) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-07
+**CVE do dia:** [CVE-2026-106126](https://nvd.nist.gov/vuln/detail/CVE-2026-106126) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-08
 >
-> The management portal's diagnostic ping tool of Fanvil x7a firmware version 2.6.0.1182 does not handle user supplied input securely. The lack of secure user input handling allows any unauthenticated attacker to inject co...
+> A command injection vulnerability in the Active Directory Events Listener of Tenable Identity Exposure (SaaS) allows an authenticated, low-privileged attacker to execute arbitrary commands as SYSTEM on the PDCe.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
