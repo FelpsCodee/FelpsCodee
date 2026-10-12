@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-106126](https://nvd.nist.gov/vuln/detail/CVE-2026-106126) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-08
+**CVE do dia:** [CVE-2026-108263](https://nvd.nist.gov/vuln/detail/CVE-2026-108263) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-09
 >
-> A command injection vulnerability in the Active Directory Events Listener of Tenable Identity Exposure (SaaS) allows an authenticated, low-privileged attacker to execute arbitrary commands as SYSTEM on the PDCe.
+> Astron Agent is an agentic workflow platform for building and running AI agents. Prior to 1.1.2, the default workflow code-node path through /console-api/workflow/code/run and /workflow/v1/run selects LocalExecutor in co...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
