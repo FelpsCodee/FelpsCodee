@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-108263](https://nvd.nist.gov/vuln/detail/CVE-2026-108263) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-09
+**CVE do dia:** [CVE-2026-42696](https://nvd.nist.gov/vuln/detail/CVE-2026-42696) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-10
 >
-> Astron Agent is an agentic workflow platform for building and running AI agents. Prior to 1.1.2, the default workflow code-node path through /console-api/workflow/code/run and /workflow/v1/run selects LocalExecutor in co...
+> Improper Control of Generation of Code ('Code Injection') vulnerability in Royal Plugins SiteVault – Backup, Restore, Migration &amp; Cloning sitevault-backup-restore-migration allows Remote Code Inclusion.This issue aff...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
