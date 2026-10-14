@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-42696](https://nvd.nist.gov/vuln/detail/CVE-2026-42696) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-10
+**CVE do dia:** [CVE-2026-108804](https://nvd.nist.gov/vuln/detail/CVE-2026-108804) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-12
 >
-> Improper Control of Generation of Code ('Code Injection') vulnerability in Royal Plugins SiteVault – Backup, Restore, Migration &amp; Cloning sitevault-backup-restore-migration allows Remote Code Inclusion.This issue aff...
+> A vulnerability was detected in TRENDnet TEW-751DR, TEW-752DRU and TEW733GR 1.03B01/1.03B03. Affected is the function fwrite of the file pigwidgeon.cgi of the component Web Management Backend. The manipulation of the arg...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
