@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-108892](https://nvd.nist.gov/vuln/detail/CVE-2026-108892) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-12
+**CVE do dia:** [CVE-2024-34323](https://nvd.nist.gov/vuln/detail/CVE-2024-34323) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-13
 >
-> A vulnerability was determined in Linksys E1700 1.0.0.4.003. This vulnerability affects the function ssid1MACFilter of the file /goform/ssid1MACFilter of the component Mac Filter. This manipulation of the argument newap_...
+> ProPhoenix Law RMS v2022.2403.3.101 was discovered to contain an Insecure Direct Object Reference (IDOR) via the usrLogin$hdnPFID parameter. This vulnerability allows attackers to access sensitive information via a craft...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
