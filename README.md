@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2024-34323](https://nvd.nist.gov/vuln/detail/CVE-2024-34323) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-13
+**CVE do dia:** [CVE-2026-107424](https://nvd.nist.gov/vuln/detail/CVE-2026-107424) — `CVSS 9.8` · **CRITICA** · publicada em 2026-10-14
 >
-> ProPhoenix Law RMS v2022.2403.3.101 was discovered to contain an Insecure Direct Object Reference (IDOR) via the usrLogin$hdnPFID parameter. This vulnerability allows attackers to access sensitive information via a craft...
+> Incorrect Privilege Assignment vulnerability in M A Vinoth Kumar Frontend Dashboard frontend-dashboard allows Privilege Escalation.This issue affects Frontend Dashboard: from n/a through 3.0.7.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
