@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-107424](https://nvd.nist.gov/vuln/detail/CVE-2026-107424) — `CVSS 9.8` · **CRITICA** · publicada em 2026-10-14
+**CVE do dia:** [CVE-2026-110957](https://nvd.nist.gov/vuln/detail/CVE-2026-110957) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-15
 >
-> Incorrect Privilege Assignment vulnerability in M A Vinoth Kumar Frontend Dashboard frontend-dashboard allows Privilege Escalation.This issue affects Frontend Dashboard: from n/a through 3.0.7.
+> A vulnerability has been found in Wavlink WL-WN530BE2-A up to M30BE2_V250604. The affected element is the function sub_12580 of the file api.cgi of the component Login Processing. The manipulation of the argument REMOTE_...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
