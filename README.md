@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-110957](https://nvd.nist.gov/vuln/detail/CVE-2026-110957) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-15
+**CVE do dia:** [CVE-2026-85746](https://nvd.nist.gov/vuln/detail/CVE-2026-85746) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-16
 >
-> A vulnerability has been found in Wavlink WL-WN530BE2-A up to M30BE2_V250604. The affected element is the function sub_12580 of the file api.cgi of the component Login Processing. The manipulation of the argument REMOTE_...
+> MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, and 13.0.2, ST_AsText can write beyond an allocated output buffer when converting deeply nested ...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
