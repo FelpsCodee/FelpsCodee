@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-85746](https://nvd.nist.gov/vuln/detail/CVE-2026-85746) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-16
+**CVE do dia:** [CVE-2026-111911](https://nvd.nist.gov/vuln/detail/CVE-2026-111911) — `CVSS 9.8` · **CRITICA** · publicada em 2026-10-17
 >
-> MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, and 13.0.2, ST_AsText can write beyond an allocated output buffer when converting deeply nested ...
+> phpMyFAQ 4.0.0 before 4.1.9 contains an authentication bypass vulnerability where WebAuthn registration endpoints attach credentials to any account without authentication or challenge validation. Attackers can stage a vi...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
