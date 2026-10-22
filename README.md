@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-111911](https://nvd.nist.gov/vuln/detail/CVE-2026-111911) — `CVSS 9.8` · **CRITICA** · publicada em 2026-10-17
+**CVE do dia:** [CVE-2026-111057](https://nvd.nist.gov/vuln/detail/CVE-2026-111057) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-19
 >
-> phpMyFAQ 4.0.0 before 4.1.9 contains an authentication bypass vulnerability where WebAuthn registration endpoints attach credentials to any account without authentication or challenge validation. Attackers can stage a vi...
+> Mercury is a Python framework for sharing Jupyter notebooks as web applications and dashboards. From 3.0.0 until 3.2.4, a missing comma in BLOCKED_PATTERNS concatenates the /lab and /api/terminals regular-expression lite...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
