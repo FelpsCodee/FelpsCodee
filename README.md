@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-111057](https://nvd.nist.gov/vuln/detail/CVE-2026-111057) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-19
+**CVE do dia:** [CVE-2026-113678](https://nvd.nist.gov/vuln/detail/CVE-2026-113678) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-20
 >
-> Mercury is a Python framework for sharing Jupyter notebooks as web applications and dashboards. From 3.0.0 until 3.2.4, a missing comma in BLOCKED_PATTERNS concatenates the /lab and /api/terminals regular-expression lite...
+> Froxlor before 2.3.15 contains a symlink following vulnerability in Statistics::makeChownWithNewStats that allows authenticated customers to take ownership of arbitrary host directories by abusing the root-run traffic cr...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
