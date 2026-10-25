@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-111832](https://nvd.nist.gov/vuln/detail/CVE-2026-111832) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-21
+**CVE do dia:** [CVE-2026-79844](https://nvd.nist.gov/vuln/detail/CVE-2026-79844) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-22
 >
-> Unrestricted Upload of File with Dangerous Type vulnerability in WP Mailster WP Mailster wp-mailster allows Upload a Web Shell to a Web Server.This issue affects WP Mailster: from n/a through 1.9.1.0.
+> Authentication bypass vulnerabilities in the affected interface of AOS-10 could allow an unauthenticated remote attacker to run arbitrary commands on the underlying host if certain preconditions outside of the attacker's...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
