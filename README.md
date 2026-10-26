@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-79844](https://nvd.nist.gov/vuln/detail/CVE-2026-79844) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-22
+**CVE do dia:** [CVE-2026-115889](https://nvd.nist.gov/vuln/detail/CVE-2026-115889) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-23
 >
-> Authentication bypass vulnerabilities in the affected interface of AOS-10 could allow an unauthenticated remote attacker to run arbitrary commands on the underlying host if certain preconditions outside of the attacker's...
+> Wasmtime is a runtime for WebAssembly. Prior to 36.0.19 and 43.0.0, the Cranelift compiler backend bit-packs SSA value indices in a way that can silently overflow in release builds when compiling a sufficiently large or ...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
