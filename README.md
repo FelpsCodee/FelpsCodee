@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-115889](https://nvd.nist.gov/vuln/detail/CVE-2026-115889) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-23
+**CVE do dia:** [CVE-2026-115933](https://nvd.nist.gov/vuln/detail/CVE-2026-115933) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-24
 >
-> Wasmtime is a runtime for WebAssembly. Prior to 36.0.19 and 43.0.0, the Cranelift compiler backend bit-packs SSA value indices in a way that can silently overflow in release builds when compiling a sufficiently large or ...
+> Postiz signs its session, invitation and password reset tokens with one shared secret and without any marker of what a token is for. A route that refreshes the credentials of a browser-extension channel signed data taken...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
