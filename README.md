@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-115933](https://nvd.nist.gov/vuln/detail/CVE-2026-115933) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-24
+**CVE do dia:** [CVE-2026-116231](https://nvd.nist.gov/vuln/detail/CVE-2026-116231) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-26
 >
-> Postiz signs its session, invitation and password reset tokens with one shared secret and without any marker of what a token is for. A route that refreshes the credentials of a browser-extension channel signed data taken...
+> A security flaw has been discovered in Oray Pugongying X5 Pro 7.6.1. The impacted element is an unknown function of the component Ser2net. Performing a manipulation of the argument regmsg results in crlf injection. It is...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
