@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-116231](https://nvd.nist.gov/vuln/detail/CVE-2026-116231) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-26
+**CVE do dia:** [CVE-2026-102649](https://nvd.nist.gov/vuln/detail/CVE-2026-102649) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-26
 >
-> A security flaw has been discovered in Oray Pugongying X5 Pro 7.6.1. The impacted element is an unknown function of the component Ser2net. Performing a manipulation of the argument regmsg results in crlf injection. It is...
+> Burrito is a Terraform Automation Collaboration Software (TACoS) Kubernetes operator. Prior to 0.13.0, `POST /api/webhook` accepts unsigned GitHub and GitLab events when a `TerraformRepository`'s credentials omit `webhoo...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
