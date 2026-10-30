@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-102649](https://nvd.nist.gov/vuln/detail/CVE-2026-102649) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-26
+**CVE do dia:** [CVE-2026-105781](https://nvd.nist.gov/vuln/detail/CVE-2026-105781) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-27
 >
-> Burrito is a Terraform Automation Collaboration Software (TACoS) Kubernetes operator. Prior to 0.13.0, `POST /api/webhook` accepts unsigned GitHub and GitLab events when a `TerraformRepository`'s credentials omit `webhoo...
+> Adobe Campaign Classic (ACC) is affected by an Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability that could result in arbitrary code execution in the context of the curren...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
