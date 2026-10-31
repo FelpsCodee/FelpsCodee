@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-105781](https://nvd.nist.gov/vuln/detail/CVE-2026-105781) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-27
+**CVE do dia:** [CVE-2026-44179](https://nvd.nist.gov/vuln/detail/CVE-2026-44179) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-28
 >
-> Adobe Campaign Classic (ACC) is affected by an Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability that could result in arbitrary code execution in the context of the curren...
+> XWiki Remote Macros provides XWiki rendering macros that are useful when migrating content from Confluence. From 1.13 until 1.14.5, the `excerpt-include` macro does not properly escape the included page's title and execu...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
