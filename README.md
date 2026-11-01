@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-44179](https://nvd.nist.gov/vuln/detail/CVE-2026-44179) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-28
+**CVE do dia:** [CVE-2026-61991](https://nvd.nist.gov/vuln/detail/CVE-2026-61991) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-29
 >
-> XWiki Remote Macros provides XWiki rendering macros that are useful when migrating content from Confluence. From 1.13 until 1.14.5, the `excerpt-include` macro does not properly escape the included page's title and execu...
+> Unauthenticated Remote Code Execution (RCE) in AjaxLoadMore Cache <= 3.1.1 versions.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
