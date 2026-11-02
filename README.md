@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-61991](https://nvd.nist.gov/vuln/detail/CVE-2026-61991) — `CVSS 10.0` · **CRITICA** · publicada em 2026-10-29
+**CVE do dia:** [CVE-2026-116241](https://nvd.nist.gov/vuln/detail/CVE-2026-116241) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-30
 >
-> Unauthenticated Remote Code Execution (RCE) in AjaxLoadMore Cache <= 3.1.1 versions.
+> pgAdmin 4's Import/Export Data tool wraps a user's query export in a psql \copy (...) TO command and checks that the query's parentheses are balanced so that nothing can escape the wrapper. The check rejected a backslash...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
