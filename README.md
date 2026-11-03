@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-116241](https://nvd.nist.gov/vuln/detail/CVE-2026-116241) — `CVSS 9.9` · **CRITICA** · publicada em 2026-10-30
+**CVE do dia:** [CVE-2026-120189](https://nvd.nist.gov/vuln/detail/CVE-2026-120189) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-01
 >
-> pgAdmin 4's Import/Export Data tool wraps a user's query export in a psql \copy (...) TO command and checks that the query's parentheses are balanced so that nothing can escape the wrapper. The check rejected a backslash...
+> A vulnerability was identified in D-Link DIR-505 1.10B02. Affected is the function save_upload_file/mp_upload_file of the file /usr/bin/tftpd of the component TFTP Upload Filename Handler. The manipulation leads to stack...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
