@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-120189](https://nvd.nist.gov/vuln/detail/CVE-2026-120189) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-01
+**CVE do dia:** [CVE-2026-120276](https://nvd.nist.gov/vuln/detail/CVE-2026-120276) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-02
 >
-> A vulnerability was identified in D-Link DIR-505 1.10B02. Affected is the function save_upload_file/mp_upload_file of the file /usr/bin/tftpd of the component TFTP Upload Filename Handler. The manipulation leads to stack...
+> A weakness has been identified in WAVLINK WN536AX6-A V260507_2.0.0. This vulnerability affects the function sub_416760 of the file /bin/ioos of the component Web Management Interface. This manipulation of the argument gr...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
