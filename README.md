@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-120276](https://nvd.nist.gov/vuln/detail/CVE-2026-120276) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-02
+**CVE do dia:** [CVE-2026-106803](https://nvd.nist.gov/vuln/detail/CVE-2026-106803) — `CVSS 9.8` · **CRITICA** · publicada em 2026-11-02
 >
-> A weakness has been identified in WAVLINK WN536AX6-A V260507_2.0.0. This vulnerability affects the function sub_416760 of the file /bin/ioos of the component Web Management Interface. This manipulation of the argument gr...
+> A stack-based buffer overflow exists in Kamailio v6.1.3 and v6.1.4 in the ims_registrar_pcscf module. When processing a crafted application/reginfo+xml NOTIFY message, process_contact() copies an attacker-controlled port...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
