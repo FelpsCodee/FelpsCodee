@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-106803](https://nvd.nist.gov/vuln/detail/CVE-2026-106803) — `CVSS 9.8` · **CRITICA** · publicada em 2026-11-02
+**CVE do dia:** [CVE-2026-28336](https://nvd.nist.gov/vuln/detail/CVE-2026-28336) — `CVSS 9.9` · **CRITICA** · publicada em 2026-11-03
 >
-> A stack-based buffer overflow exists in Kamailio v6.1.3 and v6.1.4 in the ims_registrar_pcscf module. When processing a crafted application/reginfo+xml NOTIFY message, process_contact() copies an attacker-controlled port...
+> SolarWinds Dameware was found to be affected by a command injection vulnerability that could lead to the compromise of the remotely controlled host. Authentication is required.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
