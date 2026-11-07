@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-28336](https://nvd.nist.gov/vuln/detail/CVE-2026-28336) — `CVSS 9.9` · **CRITICA** · publicada em 2026-11-03
+**CVE do dia:** [CVE-2026-121932](https://nvd.nist.gov/vuln/detail/CVE-2026-121932) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-04
 >
-> SolarWinds Dameware was found to be affected by a command injection vulnerability that could lead to the compromise of the remotely controlled host. Authentication is required.
+> A vulnerability was detected in Linksys E5350 1.0.00.037. This affects the function system of the file /wizard/apply.cgi. Performing a manipulation of the argument ping_ip/traceroute_ip results in os command injection. T...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
