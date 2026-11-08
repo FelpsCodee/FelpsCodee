@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-121932](https://nvd.nist.gov/vuln/detail/CVE-2026-121932) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-04
+**CVE do dia:** [CVE-2019-16447](https://nvd.nist.gov/vuln/detail/CVE-2019-16447) — `CVSS 7.8` · **ALTA** · publicada em 2026-11-05
 >
-> A vulnerability was detected in Linksys E5350 1.0.00.037. This affects the function system of the file /wizard/apply.cgi. Performing a manipulation of the argument ping_ip/traceroute_ip results in os command injection. T...
+> Adobe Illustrator CC versions 23.1 and earlier have a binary planting vulnerability. Successful exploitation could lead to local code execution.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
