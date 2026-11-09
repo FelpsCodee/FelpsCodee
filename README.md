@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2019-16447](https://nvd.nist.gov/vuln/detail/CVE-2019-16447) — `CVSS 7.8` · **ALTA** · publicada em 2026-11-05
+**CVE do dia:** [CVE-2026-109469](https://nvd.nist.gov/vuln/detail/CVE-2026-109469) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-06
 >
-> Adobe Illustrator CC versions 23.1 and earlier have a binary planting vulnerability. Successful exploitation could lead to local code execution.
+> Authorization bypass through user-controlled key in Entra Device Registration allows an unauthorized attacker to elevate privileges over a network.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
