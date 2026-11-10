@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-109469](https://nvd.nist.gov/vuln/detail/CVE-2026-109469) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-06
+**CVE do dia:** [CVE-2026-123551](https://nvd.nist.gov/vuln/detail/CVE-2026-123551) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-08
 >
-> Authorization bypass through user-controlled key in Entra Device Registration allows an unauthorized attacker to elevate privileges over a network.
+> OpenAM from 14.0.0 before 16.1.4 contains an information disclosure vulnerability that allows unauthenticated attackers to read live session tokens from the notification WebSocket. Attackers can bypass the agent-only che...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
