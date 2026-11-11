@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-123551](https://nvd.nist.gov/vuln/detail/CVE-2026-123551) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-08
+**CVE do dia:** [CVE-2026-124580](https://nvd.nist.gov/vuln/detail/CVE-2026-124580) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-09
 >
-> OpenAM from 14.0.0 before 16.1.4 contains an information disclosure vulnerability that allows unauthenticated attackers to read live session tokens from the notification WebSocket. Attackers can bypass the agent-only che...
+> A vulnerability was found in Chengdu Feiyuxing Technology VW2100 and VEC10GP 1.0 B-MB3W202-210825-r11775. This impacts the function handle_wechat_cn_wifi of the file var/html/webserver of the component Weixin Auth Endpoi...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
