@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-110697](https://nvd.nist.gov/vuln/detail/CVE-2026-110697) — `CVSS 9.9` · **CRITICA** · publicada em 2026-11-11
+**CVE do dia:** [CVE-2026-127275](https://nvd.nist.gov/vuln/detail/CVE-2026-127275) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-13
 >
-> A flaw was found in Quay where the robot account listing function constructs a SQL LIKE pattern from user-controlled namespace names without escaping wildcard metacharacters. An attacker who creates a namespace containin...
+> A vulnerability was determined in Linksys EA8100 1.0.3.216940. This issue affects the function SetRemoteSetting/SetUnsecuredWiFiWarning of the file ui_server.lua of the component JNAP API. This manipulation of the argume...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
