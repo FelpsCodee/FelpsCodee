@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-127275](https://nvd.nist.gov/vuln/detail/CVE-2026-127275) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-13
+**CVE do dia:** [CVE-2026-129351](https://nvd.nist.gov/vuln/detail/CVE-2026-129351) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-14
 >
-> A vulnerability was determined in Linksys EA8100 1.0.3.216940. This issue affects the function SetRemoteSetting/SetUnsecuredWiFiWarning of the file ui_server.lua of the component JNAP API. This manipulation of the argume...
+> A security vulnerability has been detected in TRENDnet TEW-657BRM 1.00.1. This vulnerability affects the function sprintf of the file /setup.cgi of the component mini_httpd. Such manipulation leads to out-of-bounds write...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
