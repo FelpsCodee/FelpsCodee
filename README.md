@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-129351](https://nvd.nist.gov/vuln/detail/CVE-2026-129351) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-14
+**CVE do dia:** [CVE-2026-93664](https://nvd.nist.gov/vuln/detail/CVE-2026-93664) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-16
 >
-> A security vulnerability has been detected in TRENDnet TEW-657BRM 1.00.1. This vulnerability affects the function sprintf of the file /setup.cgi of the component mini_httpd. Such manipulation leads to out-of-bounds write...
+> A Deserialization of Untrusted Data vulnerability affecting Station Launcher App in 3DEXPERIENCE platform from Release 3DEXPERIENCE R2023x through Release 3DEXPERIENCE R2026x could lead to an unauthenticated remote code ...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
