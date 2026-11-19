@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-93664](https://nvd.nist.gov/vuln/detail/CVE-2026-93664) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-16
+**CVE do dia:** [CVE-2026-53998](https://nvd.nist.gov/vuln/detail/CVE-2026-53998) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-16
 >
-> A Deserialization of Untrusted Data vulnerability affecting Station Launcher App in 3DEXPERIENCE platform from Release 3DEXPERIENCE R2023x through Release 3DEXPERIENCE R2026x could lead to an unauthenticated remote code ...
+> Phoenix is an AI observability and evaluation platform. From 13.0.0 until 15.7.0, the applyChatTemplate GraphQL query passed attacker-controlled F-string templates to FStringTemplateFormatter._format, while DotDict.__get...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
