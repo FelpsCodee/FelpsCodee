@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-53998](https://nvd.nist.gov/vuln/detail/CVE-2026-53998) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-16
+**CVE do dia:** [CVE-2026-100397](https://nvd.nist.gov/vuln/detail/CVE-2026-100397) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-17
 >
-> Phoenix is an AI observability and evaluation platform. From 13.0.0 until 15.7.0, the applyChatTemplate GraphQL query passed attacker-controlled F-string templates to FStringTemplateFormatter._format, while DotDict.__get...
+> Rucio is a scientific data management framework. From 1.14.0 until 35.9.1, 38.6.1, 40.4.2, and 41.1.1, validate_auth_token in lib/rucio/core/authentication.py does not distinguish short-lived SSH challenge nonces from au...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
