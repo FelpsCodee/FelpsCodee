@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-130778](https://nvd.nist.gov/vuln/detail/CVE-2026-130778) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-18
+**CVE do dia:** [CVE-2026-133323](https://nvd.nist.gov/vuln/detail/CVE-2026-133323) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-19
 >
-> Incus before 7.6.0 contains an authentication bypass vulnerability that allows remote attackers to authenticate as any trusted certificate by appending its public certificate to their presented TLS client chain. Attacker...
+> A vulnerability in the Audio, Web, and Video Conferencing (AWV) component of Mitel MiCollab through 10.3 (10.3.0.18) could allow an unauthenticated attacker to conduct a blind command injection attack due to insufficient...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
