@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-133323](https://nvd.nist.gov/vuln/detail/CVE-2026-133323) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-19
+**CVE do dia:** [CVE-2026-120539](https://nvd.nist.gov/vuln/detail/CVE-2026-120539) — `CVSS 9.8` · **CRITICA** · publicada em 2026-11-21
 >
-> A vulnerability in the Audio, Web, and Video Conferencing (AWV) component of Mitel MiCollab through 10.3 (10.3.0.18) could allow an unauthenticated attacker to conduct a blind command injection attack due to insufficient...
+> The Restrictions for BuddyPress plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.5.4 This is due to the plugin splicing the attacker-controlled request URI into a PHP ex...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
