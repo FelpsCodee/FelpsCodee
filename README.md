@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-120539](https://nvd.nist.gov/vuln/detail/CVE-2026-120539) — `CVSS 9.8` · **CRITICA** · publicada em 2026-11-21
+**CVE do dia:** [CVE-2026-131754](https://nvd.nist.gov/vuln/detail/CVE-2026-131754) — `CVSS 9.8` · **CRITICA** · publicada em 2026-11-22
 >
-> The Restrictions for BuddyPress plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.5.4 This is due to the plugin splicing the attacker-controlled request URI into a PHP ex...
+> Deserialization of Untrusted Data vulnerability in Pierre Lannoy APCu Manager apcu-manager allows Object Injection.This issue affects APCu Manager: from n/a through 4.6.1.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
