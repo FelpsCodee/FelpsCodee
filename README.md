@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-134882](https://nvd.nist.gov/vuln/detail/CVE-2026-134882) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-23
+**CVE do dia:** [CVE-2026-62841](https://nvd.nist.gov/vuln/detail/CVE-2026-62841) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-23
 >
-> A weakness has been identified in TOTOLINK A7100RU 7.4cu.2313_B20191024. This issue affects the function exportOvpn of the file /cgi-bin/cstecgi.cgi of the component CGI Handler. This manipulation of the argument Usernam...
+> Improper authentication in Azure Event Grid allows an unauthorized attacker to elevate privileges over a network.
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
