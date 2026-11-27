@@ -102,9 +102,9 @@ desenvolvimento — testar não só se funciona, mas se resiste.
 ### `> tail -f /var/log/vuln_feed.log`
 
 <!--CVE:START-->
-**CVE do dia:** [CVE-2026-62841](https://nvd.nist.gov/vuln/detail/CVE-2026-62841) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-23
+**CVE do dia:** [CVE-2026-135797](https://nvd.nist.gov/vuln/detail/CVE-2026-135797) — `CVSS 10.0` · **CRITICA** · publicada em 2026-11-24
 >
-> Improper authentication in Azure Event Grid allows an unauthorized attacker to elevate privileges over a network.
+> A vulnerability was identified in Volans NGFW Next-Generation Firewall r5.1. Impacted is the function exec of the file sslvpn/sslvpn_client.php of the component SSLVPN Client. Such manipulation of the argument img leads ...
 <!--CVE:END-->
 
 > Atualizado automaticamente todo dia via GitHub Actions, consumindo a API do NVD.
